@@ -1,6 +1,6 @@
 # Target-Based Local SNR Calculation
 
-This Target-Based Local SNR Calculation is used to analyze small target detection datasets, such as [SIRST](https://github.com/YimianDai/sirst), [SIRSTv2](https://github.com/YimianDai/open-sirst-v2) and [IRSTD-1k](https://github.com/RuiZhang97/ISNet). This value indicates the dimness of the targets.
+This Target-Based Local SNR Calculation is used to analyze small target detection datasets, such as [SIRST](https://github.com/YimianDai/sirst), [SIRSTv2](https://github.com/YimianDai/open-sirst-v2) and [IRSTD-1k](https://github.com/RuiZhang97/ISNet). This value indicates the targets' dimness, a critical property for algorithms and models focused on detecting and tracking dim or small targets.
 
 ### Generic SNR
 ```
