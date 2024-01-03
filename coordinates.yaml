@@ -1,0 +1,6688 @@
+202105-Enhance-1.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-11.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-24.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-25.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-30.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-32.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-33.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-38.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-41.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-44.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-47.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-48.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-50.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-51.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-54.xml:
+  height: 512
+  objects: []
+  width: 640
+202105-Enhance-56.xml:
+  height: 1024
+  objects: []
+  width: 1024
+20210725-S1-10.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-1041.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-1121.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-1201.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-161.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-241.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-321.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-401.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-481.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-561.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-641.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-721.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-801.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-81.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-881.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S1-961.xml:
+  height: 1080
+  objects: []
+  width: 1918
+20210725-S2-101.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-151.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-201.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-251.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-301.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-351.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-401.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-451.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-501.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-51.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-551.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-601.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-651.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-701.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-751.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S2-801.xml:
+  height: 720
+  objects: []
+  width: 1280
+20210725-S3-1.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-101.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-151.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-201.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-251.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-301.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-401.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-451.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-501.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S3-51.xml:
+  height: 690
+  objects: []
+  width: 1280
+20210725-S4-1.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-1001.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-1201.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-1401.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-1601.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-1801.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-2001.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-201.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-401.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-601.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S4-801.xml:
+  height: 512
+  objects: []
+  width: 1120
+20210725-S5-1.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-1001.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-1201.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-1401.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-1601.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-1801.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-2001.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-2401.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-401.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-601.xml:
+  height: 512
+  objects: []
+  width: 1104
+20210725-S5-801.xml:
+  height: 512
+  objects: []
+  width: 1104
+211_HD_1.xml:
+  height: 640
+  objects: []
+  width: 640
+211_HD_1101.xml:
+  height: 720
+  objects: []
+  width: 1280
+211_HD_126.xml:
+  height: 640
+  objects: []
+  width: 640
+211_HD_1301.xml:
+  height: 720
+  objects: []
+  width: 1280
+211_HD_2151.xml:
+  height: 720
+  objects: []
+  width: 1280
+Best_MWIR_PTZ_1351.xml:
+  height: 720
+  objects: []
+  width: 1280
+GAODE_6.xml:
+  height: 1024
+  objects: []
+  width: 1280
+Misc_1.xml:
+  height: 240
+  objects:
+  - xmax: 73
+    xmin: 71
+    ymax: 77
+    ymin: 75
+  - xmax: 223
+    xmin: 220
+    ymax: 136
+    ymin: 133
+  width: 320
+Misc_10.xml:
+  height: 240
+  objects:
+  - xmax: 65
+    xmin: 57
+    ymax: 107
+    ymin: 100
+  width: 320
+Misc_100.xml:
+  height: 213
+  objects:
+  - xmax: 178
+    xmin: 174
+    ymax: 116
+    ymin: 110
+  width: 332
+Misc_101.xml:
+  height: 282
+  objects:
+  - xmax: 165
+    xmin: 158
+    ymax: 166
+    ymin: 161
+  width: 298
+Misc_102.xml:
+  height: 205
+  objects:
+  - xmax: 190
+    xmin: 173
+    ymax: 44
+    ymin: 37
+  width: 308
+Misc_103.xml:
+  height: 230
+  objects:
+  - xmax: 194
+    xmin: 169
+    ymax: 55
+    ymin: 31
+  width: 364
+Misc_104.xml:
+  height: 388
+  objects:
+  - xmax: 100
+    xmin: 66
+    ymax: 135
+    ymin: 121
+  width: 418
+Misc_105.xml:
+  height: 215
+  objects:
+  - xmax: 128
+    xmin: 123
+    ymax: 144
+    ymin: 142
+  - xmax: 283
+    xmin: 277
+    ymax: 164
+    ymin: 160
+  width: 329
+Misc_106.xml:
+  height: 210
+  objects:
+  - xmax: 264
+    xmin: 251
+    ymax: 136
+    ymin: 122
+  width: 306
+Misc_107.xml:
+  height: 220
+  objects:
+  - xmax: 170
+    xmin: 158
+    ymax: 137
+    ymin: 130
+  width: 297
+Misc_108.xml:
+  height: 224
+  objects:
+  - xmax: 268
+    xmin: 261
+    ymax: 200
+    ymin: 196
+  width: 315
+Misc_109.xml:
+  height: 239
+  objects:
+  - xmax: 216
+    xmin: 210
+    ymax: 220
+    ymin: 217
+  width: 378
+Misc_11.xml:
+  height: 280
+  objects:
+  - xmax: 156
+    xmin: 139
+    ymax: 153
+    ymin: 143
+  width: 280
+Misc_110.xml:
+  height: 202
+  objects:
+  - xmax: 170
+    xmin: 158
+    ymax: 14
+    ymin: 6
+  width: 329
+Misc_111.xml:
+  height: 220
+  objects:
+  - xmax: 275
+    xmin: 261
+    ymax: 218
+    ymin: 207
+  width: 325
+Misc_112.xml:
+  height: 189
+  objects:
+  - xmax: 135
+    xmin: 127
+    ymax: 97
+    ymin: 93
+  width: 298
+Misc_113.xml:
+  height: 190
+  objects:
+  - xmax: 187
+    xmin: 174
+    ymax: 97
+    ymin: 90
+  width: 292
+Misc_114.xml:
+  height: 182
+  objects:
+  - xmax: 239
+    xmin: 232
+    ymax: 123
+    ymin: 120
+  width: 283
+Misc_115.xml:
+  height: 186
+  objects:
+  - xmax: 148
+    xmin: 140
+    ymax: 83
+    ymin: 76
+  width: 298
+Misc_116.xml:
+  height: 196
+  objects:
+  - xmax: 159
+    xmin: 154
+    ymax: 150
+    ymin: 146
+  width: 291
+Misc_117.xml:
+  height: 164
+  objects:
+  - xmax: 130
+    xmin: 123
+    ymax: 69
+    ymin: 65
+  width: 275
+Misc_118.xml:
+  height: 182
+  objects:
+  - xmax: 151
+    xmin: 142
+    ymax: 16
+    ymin: 10
+  width: 321
+Misc_119.xml:
+  height: 197
+  objects:
+  - xmax: 126
+    xmin: 119
+    ymax: 28
+    ymin: 22
+  - xmax: 274
+    xmin: 270
+    ymax: 64
+    ymin: 62
+  width: 296
+Misc_12.xml:
+  height: 239
+  objects:
+  - xmax: 78
+    xmin: 73
+    ymax: 47
+    ymin: 42
+  width: 318
+Misc_120.xml:
+  height: 209
+  objects:
+  - xmax: 253
+    xmin: 251
+    ymax: 180
+    ymin: 178
+  width: 300
+Misc_121.xml:
+  height: 199
+  objects:
+  - xmax: 129
+    xmin: 126
+    ymax: 29
+    ymin: 25
+  - xmax: 144
+    xmin: 140
+    ymax: 38
+    ymin: 34
+  - xmax: 159
+    xmin: 155
+    ymax: 47
+    ymin: 43
+  - xmax: 151
+    xmin: 147
+    ymax: 55
+    ymin: 52
+  - xmax: 168
+    xmin: 163
+    ymax: 62
+    ymin: 58
+  - xmax: 179
+    xmin: 174
+    ymax: 79
+    ymin: 75
+  width: 303
+Misc_122.xml:
+  height: 180
+  objects:
+  - xmax: 13
+    xmin: 9
+    ymax: 44
+    ymin: 41
+  width: 300
+Misc_123.xml:
+  height: 246
+  objects:
+  - xmax: 49
+    xmin: 43
+    ymax: 74
+    ymin: 71
+  width: 379
+Misc_124.xml:
+  height: 239
+  objects:
+  - xmax: 224
+    xmin: 217
+    ymax: 34
+    ymin: 28
+  width: 378
+Misc_125.xml:
+  height: 177
+  objects:
+  - xmax: 131
+    xmin: 121
+    ymax: 81
+    ymin: 76
+  width: 273
+Misc_126.xml:
+  height: 200
+  objects:
+  - xmax: 230
+    xmin: 225
+    ymax: 182
+    ymin: 179
+  width: 300
+Misc_127.xml:
+  height: 226
+  objects:
+  - xmax: 89
+    xmin: 82
+    ymax: 33
+    ymin: 30
+  width: 332
+Misc_128.xml:
+  height: 229
+  objects:
+  - xmax: 48
+    xmin: 40
+    ymax: 22
+    ymin: 19
+  width: 318
+Misc_129.xml:
+  height: 211
+  objects:
+  - xmax: 124
+    xmin: 113
+    ymax: 113
+    ymin: 108
+  width: 337
+Misc_13.xml:
+  height: 249
+  objects:
+  - xmax: 70
+    xmin: 67
+    ymax: 146
+    ymin: 143
+  width: 249
+Misc_130.xml:
+  height: 202
+  objects:
+  - xmax: 146
+    xmin: 133
+    ymax: 87
+    ymin: 82
+  width: 311
+Misc_131.xml:
+  height: 204
+  objects:
+  - xmax: 172
+    xmin: 144
+    ymax: 53
+    ymin: 43
+  width: 292
+Misc_132.xml:
+  height: 220
+  objects:
+  - xmax: 285
+    xmin: 280
+    ymax: 176
+    ymin: 170
+  - xmax: 285
+    xmin: 281
+    ymax: 188
+    ymin: 183
+  width: 328
+Misc_133.xml:
+  height: 209
+  objects:
+  - xmax: 116
+    xmin: 113
+    ymax: 116
+    ymin: 114
+  - xmax: 110
+    xmin: 106
+    ymax: 118
+    ymin: 116
+  width: 362
+Misc_134.xml:
+  height: 204
+  objects:
+  - xmax: 34
+    xmin: 16
+    ymax: 141
+    ymin: 131
+  width: 333
+Misc_135.xml:
+  height: 218
+  objects:
+  - xmax: 36
+    xmin: 31
+    ymax: 77
+    ymin: 74
+  width: 331
+Misc_136.xml:
+  height: 193
+  objects:
+  - xmax: 196
+    xmin: 189
+    ymax: 22
+    ymin: 17
+  width: 295
+Misc_137.xml:
+  height: 278
+  objects:
+  - xmax: 442
+    xmin: 408
+    ymax: 19
+    ymin: 7
+  width: 456
+Misc_138.xml:
+  height: 200
+  objects:
+  - xmax: 172
+    xmin: 159
+    ymax: 102
+    ymin: 97
+  width: 256
+Misc_139.xml:
+  height: 200
+  objects:
+  - xmax: 150
+    xmin: 145
+    ymax: 147
+    ymin: 144
+  width: 256
+Misc_14.xml:
+  height: 250
+  objects:
+  - xmax: 222
+    xmin: 219
+    ymax: 156
+    ymin: 152
+  width: 250
+Misc_140.xml:
+  height: 240
+  objects:
+  - xmax: 128
+    xmin: 120
+    ymax: 129
+    ymin: 118
+  width: 320
+Misc_141.xml:
+  height: 161
+  objects:
+  - xmax: 46
+    xmin: 42
+    ymax: 30
+    ymin: 26
+  width: 233
+Misc_142.xml:
+  height: 188
+  objects:
+  - xmax: 18
+    xmin: 14
+    ymax: 38
+    ymin: 34
+  - xmax: 29
+    xmin: 25
+    ymax: 37
+    ymin: 34
+  width: 286
+Misc_143.xml:
+  height: 205
+  objects:
+  - xmax: 178
+    xmin: 174
+    ymax: 30
+    ymin: 25
+  width: 303
+Misc_144.xml:
+  height: 194
+  objects:
+  - xmax: 253
+    xmin: 243
+    ymax: 123
+    ymin: 110
+  width: 304
+Misc_145.xml:
+  height: 186
+  objects:
+  - xmax: 214
+    xmin: 209
+    ymax: 120
+    ymin: 117
+  - xmax: 202
+    xmin: 199
+    ymax: 122
+    ymin: 119
+  width: 286
+Misc_146.xml:
+  height: 232
+  objects:
+  - xmax: 155
+    xmin: 146
+    ymax: 119
+    ymin: 116
+  width: 283
+Misc_147.xml:
+  height: 186
+  objects:
+  - xmax: 226
+    xmin: 221
+    ymax: 139
+    ymin: 134
+  width: 298
+Misc_148.xml:
+  height: 200
+  objects:
+  - xmax: 210
+    xmin: 205
+    ymax: 160
+    ymin: 157
+  width: 286
+Misc_149.xml:
+  height: 187
+  objects:
+  - xmax: 182
+    xmin: 178
+    ymax: 43
+    ymin: 39
+  width: 297
+Misc_15.xml:
+  height: 348
+  objects:
+  - xmax: 317
+    xmin: 312
+    ymax: 119
+    ymin: 114
+  - xmax: 293
+    xmin: 289
+    ymax: 189
+    ymin: 183
+  width: 436
+Misc_150.xml:
+  height: 206
+  objects:
+  - xmax: 66
+    xmin: 63
+    ymax: 16
+    ymin: 12
+  width: 315
+Misc_151.xml:
+  height: 175
+  objects:
+  - xmax: 82
+    xmin: 77
+    ymax: 83
+    ymin: 79
+  width: 286
+Misc_152.xml:
+  height: 202
+  objects:
+  - xmax: 168
+    xmin: 164
+    ymax: 120
+    ymin: 117
+  width: 302
+Misc_153.xml:
+  height: 187
+  objects:
+  - xmax: 165
+    xmin: 158
+    ymax: 162
+    ymin: 155
+  width: 291
+Misc_154.xml:
+  height: 182
+  objects:
+  - xmax: 138
+    xmin: 134
+    ymax: 73
+    ymin: 69
+  width: 273
+Misc_155.xml:
+  height: 205
+  objects:
+  - xmax: 144
+    xmin: 140
+    ymax: 60
+    ymin: 57
+  width: 307
+Misc_156.xml:
+  height: 193
+  objects:
+  - xmax: 74
+    xmin: 68
+    ymax: 59
+    ymin: 54
+  width: 308
+Misc_157.xml:
+  height: 196
+  objects:
+  - xmax: 135
+    xmin: 129
+    ymax: 40
+    ymin: 35
+  width: 316
+Misc_158.xml:
+  height: 193
+  objects:
+  - xmax: 221
+    xmin: 217
+    ymax: 71
+    ymin: 67
+  width: 307
+Misc_159.xml:
+  height: 177
+  objects:
+  - xmax: 157
+    xmin: 152
+    ymax: 59
+    ymin: 55
+  width: 299
+Misc_16.xml:
+  height: 208
+  objects:
+  - xmax: 210
+    xmin: 207
+    ymax: 138
+    ymin: 133
+  width: 284
+Misc_160.xml:
+  height: 187
+  objects:
+  - xmax: 119
+    xmin: 114
+    ymax: 51
+    ymin: 48
+  width: 297
+Misc_161.xml:
+  height: 154
+  objects:
+  - xmax: 134
+    xmin: 129
+    ymax: 42
+    ymin: 38
+  width: 249
+Misc_162.xml:
+  height: 200
+  objects:
+  - xmax: 152
+    xmin: 147
+    ymax: 38
+    ymin: 34
+  width: 305
+Misc_163.xml:
+  height: 181
+  objects:
+  - xmax: 99
+    xmin: 92
+    ymax: 27
+    ymin: 21
+  width: 283
+Misc_164.xml:
+  height: 168
+  objects:
+  - xmax: 134
+    xmin: 131
+    ymax: 37
+    ymin: 33
+  width: 280
+Misc_165.xml:
+  height: 213
+  objects:
+  - xmax: 166
+    xmin: 163
+    ymax: 194
+    ymin: 191
+  width: 300
+Misc_166.xml:
+  height: 181
+  objects:
+  - xmax: 275
+    xmin: 271
+    ymax: 78
+    ymin: 74
+  width: 288
+Misc_167.xml:
+  height: 184
+  objects:
+  - xmax: 15
+    xmin: 11
+    ymax: 119
+    ymin: 115
+  width: 282
+Misc_168.xml:
+  height: 164
+  objects:
+  - xmax: 31
+    xmin: 25
+    ymax: 86
+    ymin: 82
+  width: 254
+Misc_169.xml:
+  height: 178
+  objects:
+  - xmax: 227
+    xmin: 221
+    ymax: 96
+    ymin: 93
+  width: 283
+Misc_17.xml:
+  height: 267
+  objects:
+  - xmax: 191
+    xmin: 188
+    ymax: 136
+    ymin: 133
+  width: 368
+Misc_170.xml:
+  height: 178
+  objects:
+  - xmax: 245
+    xmin: 240
+    ymax: 31
+    ymin: 27
+  - xmax: 198
+    xmin: 194
+    ymax: 161
+    ymin: 159
+  width: 275
+Misc_171.xml:
+  height: 213
+  objects:
+  - xmax: 76
+    xmin: 70
+    ymax: 199
+    ymin: 195
+  width: 313
+Misc_172.xml:
+  height: 204
+  objects:
+  - xmax: 22
+    xmin: 17
+    ymax: 22
+    ymin: 18
+  - xmax: 273
+    xmin: 269
+    ymax: 57
+    ymin: 52
+  width: 312
+Misc_173.xml:
+  height: 232
+  objects:
+  - xmax: 303
+    xmin: 299
+    ymax: 148
+    ymin: 145
+  width: 339
+Misc_174.xml:
+  height: 186
+  objects:
+  - xmax: 89
+    xmin: 85
+    ymax: 129
+    ymin: 126
+  width: 285
+Misc_175.xml:
+  height: 183
+  objects:
+  - xmax: 62
+    xmin: 56
+    ymax: 15
+    ymin: 11
+  - xmax: 299
+    xmin: 294
+    ymax: 48
+    ymin: 44
+  width: 304
+Misc_176.xml:
+  height: 221
+  objects:
+  - xmax: 289
+    xmin: 283
+    ymax: 174
+    ymin: 170
+  width: 332
+Misc_177.xml:
+  height: 246
+  objects:
+  - xmax: 324
+    xmin: 318
+    ymax: 114
+    ymin: 110
+  width: 359
+Misc_178.xml:
+  height: 234
+  objects:
+  - xmax: 149
+    xmin: 145
+    ymax: 224
+    ymin: 221
+  width: 320
+Misc_179.xml:
+  height: 177
+  objects:
+  - xmax: 242
+    xmin: 238
+    ymax: 164
+    ymin: 158
+  width: 270
+Misc_18.xml:
+  height: 305
+  objects:
+  - xmax: 66
+    xmin: 54
+    ymax: 137
+    ymin: 132
+  - xmax: 197
+    xmin: 163
+    ymax: 152
+    ymin: 143
+  width: 367
+Misc_180.xml:
+  height: 219
+  objects:
+  - xmax: 155
+    xmin: 150
+    ymax: 158
+    ymin: 154
+  width: 276
+Misc_181.xml:
+  height: 201
+  objects:
+  - xmax: 103
+    xmin: 99
+    ymax: 44
+    ymin: 40
+  width: 311
+Misc_182.xml:
+  height: 185
+  objects:
+  - xmax: 128
+    xmin: 123
+    ymax: 131
+    ymin: 127
+  width: 287
+Misc_183.xml:
+  height: 195
+  objects:
+  - xmax: 190
+    xmin: 186
+    ymax: 166
+    ymin: 161
+  width: 275
+Misc_184.xml:
+  height: 194
+  objects:
+  - xmax: 200
+    xmin: 193
+    ymax: 148
+    ymin: 143
+  width: 285
+Misc_185.xml:
+  height: 218
+  objects:
+  - xmax: 93
+    xmin: 86
+    ymax: 75
+    ymin: 70
+  - xmax: 275
+    xmin: 268
+    ymax: 154
+    ymin: 149
+  width: 311
+Misc_186.xml:
+  height: 232
+  objects:
+  - xmax: 288
+    xmin: 281
+    ymax: 10
+    ymin: 7
+  width: 329
+Misc_187.xml:
+  height: 199
+  objects:
+  - xmax: 59
+    xmin: 54
+    ymax: 20
+    ymin: 16
+  - xmax: 173
+    xmin: 168
+    ymax: 74
+    ymin: 70
+  width: 303
+Misc_188.xml:
+  height: 196
+  objects:
+  - xmax: 78
+    xmin: 75
+    ymax: 36
+    ymin: 33
+  width: 290
+Misc_189.xml:
+  height: 219
+  objects:
+  - xmax: 261
+    xmin: 257
+    ymax: 119
+    ymin: 114
+  width: 316
+Misc_19.xml:
+  height: 260
+  objects:
+  - xmax: 181
+    xmin: 178
+    ymax: 142
+    ymin: 136
+  width: 363
+Misc_190.xml:
+  height: 210
+  objects:
+  - xmax: 192
+    xmin: 188
+    ymax: 137
+    ymin: 133
+  width: 304
+Misc_191.xml:
+  height: 222
+  objects:
+  - xmax: 163
+    xmin: 157
+    ymax: 134
+    ymin: 131
+  width: 311
+Misc_192.xml:
+  height: 199
+  objects:
+  - xmax: 150
+    xmin: 145
+    ymax: 145
+    ymin: 141
+  width: 286
+Misc_193.xml:
+  height: 192
+  objects:
+  - xmax: 114
+    xmin: 112
+    ymax: 133
+    ymin: 129
+  width: 287
+Misc_194.xml:
+  height: 202
+  objects:
+  - xmax: 221
+    xmin: 216
+    ymax: 171
+    ymin: 166
+  width: 286
+Misc_195.xml:
+  height: 199
+  objects:
+  - xmax: 90
+    xmin: 84
+    ymax: 78
+    ymin: 74
+  width: 307
+Misc_196.xml:
+  height: 184
+  objects:
+  - xmax: 15
+    xmin: 11
+    ymax: 43
+    ymin: 40
+  width: 299
+Misc_197.xml:
+  height: 203
+  objects:
+  - xmax: 100
+    xmin: 96
+    ymax: 98
+    ymin: 91
+  width: 307
+Misc_198.xml:
+  height: 194
+  objects:
+  - xmax: 24
+    xmin: 18
+    ymax: 75
+    ymin: 69
+  width: 301
+Misc_199.xml:
+  height: 213
+  objects:
+  - xmax: 86
+    xmin: 79
+    ymax: 95
+    ymin: 90
+  width: 301
+Misc_2.xml:
+  height: 270
+  objects:
+  - xmax: 256
+    xmin: 233
+    ymax: 145
+    ymin: 133
+  width: 348
+Misc_20.xml:
+  height: 274
+  objects:
+  - xmax: 103
+    xmin: 99
+    ymax: 168
+    ymin: 163
+  width: 302
+Misc_200.xml:
+  height: 196
+  objects:
+  - xmax: 143
+    xmin: 139
+    ymax: 101
+    ymin: 98
+  width: 301
+Misc_201.xml:
+  height: 227
+  objects:
+  - xmax: 224
+    xmin: 217
+    ymax: 178
+    ymin: 174
+  width: 332
+Misc_202.xml:
+  height: 210
+  objects:
+  - xmax: 149
+    xmin: 144
+    ymax: 95
+    ymin: 91
+  width: 341
+Misc_203.xml:
+  height: 238
+  objects:
+  - xmax: 144
+    xmin: 139
+    ymax: 26
+    ymin: 22
+  width: 352
+Misc_204.xml:
+  height: 217
+  objects:
+  - xmax: 113
+    xmin: 109
+    ymax: 121
+    ymin: 117
+  width: 340
+Misc_205.xml:
+  height: 195
+  objects:
+  - xmax: 33
+    xmin: 28
+    ymax: 69
+    ymin: 64
+  width: 303
+Misc_206.xml:
+  height: 249
+  objects:
+  - xmax: 350
+    xmin: 346
+    ymax: 30
+    ymin: 26
+  width: 359
+Misc_207.xml:
+  height: 223
+  objects:
+  - xmax: 270
+    xmin: 266
+    ymax: 55
+    ymin: 48
+  - xmax: 306
+    xmin: 304
+    ymax: 215
+    ymin: 213
+  width: 344
+Misc_208.xml:
+  height: 225
+  objects:
+  - xmax: 88
+    xmin: 84
+    ymax: 53
+    ymin: 46
+  - xmax: 216
+    xmin: 213
+    ymax: 67
+    ymin: 63
+  - xmax: 124
+    xmin: 121
+    ymax: 213
+    ymin: 211
+  width: 334
+Misc_209.xml:
+  height: 272
+  objects:
+  - xmax: 68
+    xmin: 63
+    ymax: 43
+    ymin: 39
+  - xmax: 124
+    xmin: 121
+    ymax: 209
+    ymin: 207
+  width: 373
+Misc_21.xml:
+  height: 211
+  objects:
+  - xmax: 129
+    xmin: 125
+    ymax: 101
+    ymin: 96
+  width: 215
+Misc_210.xml:
+  height: 202
+  objects:
+  - xmax: 118
+    xmin: 113
+    ymax: 76
+    ymin: 72
+  width: 290
+Misc_211.xml:
+  height: 231
+  objects:
+  - xmax: 284
+    xmin: 280
+    ymax: 42
+    ymin: 36
+  - xmax: 258
+    xmin: 254
+    ymax: 219
+    ymin: 215
+  width: 351
+Misc_212.xml:
+  height: 192
+  objects:
+  - xmax: 165
+    xmin: 160
+    ymax: 83
+    ymin: 77
+  width: 300
+Misc_213.xml:
+  height: 279
+  objects:
+  - xmax: 34
+    xmin: 26
+    ymax: 17
+    ymin: 10
+  width: 300
+Misc_214.xml:
+  height: 194
+  objects:
+  - xmax: 158
+    xmin: 139
+    ymax: 83
+    ymin: 72
+  width: 300
+Misc_215.xml:
+  height: 185
+  objects:
+  - xmax: 204
+    xmin: 198
+    ymax: 152
+    ymin: 148
+  width: 305
+Misc_216.xml:
+  height: 200
+  objects:
+  - xmax: 129
+    xmin: 125
+    ymax: 32
+    ymin: 26
+  width: 302
+Misc_217.xml:
+  height: 207
+  objects:
+  - xmax: 190
+    xmin: 181
+    ymax: 190
+    ymin: 183
+  width: 310
+Misc_218.xml:
+  height: 187
+  objects:
+  - xmax: 186
+    xmin: 177
+    ymax: 176
+    ymin: 170
+  width: 304
+Misc_219.xml:
+  height: 196
+  objects:
+  - xmax: 165
+    xmin: 156
+    ymax: 142
+    ymin: 137
+  width: 303
+Misc_22.xml:
+  height: 239
+  objects:
+  - xmax: 22
+    xmin: 19
+    ymax: 139
+    ymin: 136
+  width: 256
+Misc_220.xml:
+  height: 215
+  objects:
+  - xmax: 126
+    xmin: 123
+    ymax: 209
+    ymin: 203
+  width: 298
+Misc_221.xml:
+  height: 273
+  objects:
+  - xmax: 251
+    xmin: 248
+    ymax: 253
+    ymin: 249
+  width: 360
+Misc_222.xml:
+  height: 208
+  objects:
+  - xmax: 147
+    xmin: 141
+    ymax: 78
+    ymin: 74
+  - xmax: 149
+    xmin: 144
+    ymax: 84
+    ymin: 82
+  width: 309
+Misc_223.xml:
+  height: 201
+  objects:
+  - xmax: 225
+    xmin: 220
+    ymax: 51
+    ymin: 44
+  - xmax: 213
+    xmin: 210
+    ymax: 111
+    ymin: 106
+  - xmax: 219
+    xmin: 215
+    ymax: 111
+    ymin: 106
+  - xmax: 201
+    xmin: 198
+    ymax: 172
+    ymin: 168
+  width: 308
+Misc_224.xml:
+  height: 182
+  objects:
+  - xmax: 210
+    xmin: 205
+    ymax: 66
+    ymin: 60
+  width: 264
+Misc_225.xml:
+  height: 204
+  objects:
+  - xmax: 194
+    xmin: 191
+    ymax: 119
+    ymin: 115
+  width: 307
+Misc_226.xml:
+  height: 184
+  objects:
+  - xmax: 161
+    xmin: 154
+    ymax: 76
+    ymin: 66
+  width: 304
+Misc_227.xml:
+  height: 187
+  objects:
+  - xmax: 118
+    xmin: 115
+    ymax: 73
+    ymin: 69
+  width: 280
+Misc_228.xml:
+  height: 212
+  objects:
+  - xmax: 185
+    xmin: 181
+    ymax: 100
+    ymin: 96
+  width: 304
+Misc_229.xml:
+  height: 222
+  objects:
+  - xmax: 153
+    xmin: 140
+    ymax: 106
+    ymin: 101
+  width: 319
+Misc_23.xml:
+  height: 150
+  objects:
+  - xmax: 110
+    xmin: 107
+    ymax: 81
+    ymin: 78
+  width: 200
+Misc_230.xml:
+  height: 190
+  objects:
+  - xmax: 63
+    xmin: 58
+    ymax: 79
+    ymin: 73
+  width: 284
+Misc_231.xml:
+  height: 194
+  objects:
+  - xmax: 138
+    xmin: 135
+    ymax: 144
+    ymin: 139
+  width: 304
+Misc_232.xml:
+  height: 168
+  objects:
+  - xmax: 122
+    xmin: 115
+    ymax: 80
+    ymin: 71
+  width: 264
+Misc_233.xml:
+  height: 180
+  objects:
+  - xmax: 148
+    xmin: 141
+    ymax: 94
+    ymin: 90
+  width: 271
+Misc_234.xml:
+  height: 236
+  objects:
+  - xmax: 176
+    xmin: 169
+    ymax: 103
+    ymin: 97
+  width: 357
+Misc_235.xml:
+  height: 205
+  objects:
+  - xmax: 157
+    xmin: 153
+    ymax: 90
+    ymin: 86
+  width: 305
+Misc_236.xml:
+  height: 210
+  objects:
+  - xmax: 146
+    xmin: 143
+    ymax: 107
+    ymin: 103
+  width: 347
+Misc_237.xml:
+  height: 250
+  objects:
+  - xmax: 156
+    xmin: 151
+    ymax: 234
+    ymin: 231
+  width: 250
+Misc_238.xml:
+  height: 237
+  objects:
+  - xmax: 196
+    xmin: 192
+    ymax: 37
+    ymin: 34
+  width: 354
+Misc_239.xml:
+  height: 176
+  objects:
+  - xmax: 76
+    xmin: 67
+    ymax: 91
+    ymin: 80
+  width: 274
+Misc_24.xml:
+  height: 261
+  objects:
+  - xmax: 157
+    xmin: 142
+    ymax: 76
+    ymin: 65
+  width: 347
+Misc_240.xml:
+  height: 197
+  objects:
+  - xmax: 90
+    xmin: 84
+    ymax: 85
+    ymin: 78
+  - xmax: 75
+    xmin: 68
+    ymax: 90
+    ymin: 80
+  width: 298
+Misc_241.xml:
+  height: 214
+  objects:
+  - xmax: 78
+    xmin: 64
+    ymax: 101
+    ymin: 88
+  width: 304
+Misc_242.xml:
+  height: 222
+  objects:
+  - xmax: 187
+    xmin: 182
+    ymax: 150
+    ymin: 145
+  width: 338
+Misc_243.xml:
+  height: 212
+  objects:
+  - xmax: 145
+    xmin: 133
+    ymax: 43
+    ymin: 34
+  width: 340
+Misc_244.xml:
+  height: 232
+  objects:
+  - xmax: 87
+    xmin: 76
+    ymax: 48
+    ymin: 39
+  width: 341
+Misc_245.xml:
+  height: 231
+  objects:
+  - xmax: 309
+    xmin: 303
+    ymax: 40
+    ymin: 34
+  width: 329
+Misc_246.xml:
+  height: 250
+  objects:
+  - xmax: 264
+    xmin: 259
+    ymax: 108
+    ymin: 98
+  width: 328
+Misc_247.xml:
+  height: 185
+  objects:
+  - xmax: 135
+    xmin: 130
+    ymax: 170
+    ymin: 165
+  - xmax: 130
+    xmin: 126
+    ymax: 177
+    ymin: 172
+  width: 299
+Misc_248.xml:
+  height: 183
+  objects:
+  - xmax: 170
+    xmin: 164
+    ymax: 39
+    ymin: 31
+  width: 278
+Misc_249.xml:
+  height: 235
+  objects:
+  - xmax: 235
+    xmin: 225
+    ymax: 77
+    ymin: 69
+  - xmax: 189
+    xmin: 183
+    ymax: 88
+    ymin: 84
+  - xmax: 194
+    xmin: 188
+    ymax: 95
+    ymin: 92
+  width: 299
+Misc_25.xml:
+  height: 260
+  objects:
+  - xmax: 89
+    xmin: 80
+    ymax: 149
+    ymin: 145
+  width: 345
+Misc_250.xml:
+  height: 179
+  objects:
+  - xmax: 76
+    xmin: 71
+    ymax: 16
+    ymin: 13
+  - xmax: 148
+    xmin: 143
+    ymax: 82
+    ymin: 79
+  - xmax: 9
+    xmin: 4
+    ymax: 88
+    ymin: 85
+  - xmax: 93
+    xmin: 89
+    ymax: 95
+    ymin: 91
+  - xmax: 190
+    xmin: 184
+    ymax: 105
+    ymin: 100
+  - xmax: 81
+    xmin: 77
+    ymax: 157
+    ymin: 154
+  width: 262
+Misc_251.xml:
+  height: 216
+  objects:
+  - xmax: 183
+    xmin: 163
+    ymax: 81
+    ymin: 66
+  width: 307
+Misc_252.xml:
+  height: 210
+  objects:
+  - xmax: 271
+    xmin: 264
+    ymax: 120
+    ymin: 117
+  width: 302
+Misc_253.xml:
+  height: 215
+  objects:
+  - xmax: 28
+    xmin: 22
+    ymax: 14
+    ymin: 10
+  width: 308
+Misc_254.xml:
+  height: 204
+  objects:
+  - xmax: 201
+    xmin: 197
+    ymax: 130
+    ymin: 128
+  width: 330
+Misc_255.xml:
+  height: 183
+  objects:
+  - xmax: 144
+    xmin: 139
+    ymax: 153
+    ymin: 140
+  width: 284
+Misc_256.xml:
+  height: 261
+  objects:
+  - xmax: 22
+    xmin: 19
+    ymax: 117
+    ymin: 113
+  width: 377
+Misc_257.xml:
+  height: 200
+  objects:
+  - xmax: 227
+    xmin: 216
+    ymax: 48
+    ymin: 39
+  width: 270
+Misc_258.xml:
+  height: 161
+  objects:
+  - xmax: 233
+    xmin: 229
+    ymax: 25
+    ymin: 21
+  width: 252
+Misc_259.xml:
+  height: 162
+  objects:
+  - xmax: 128
+    xmin: 120
+    ymax: 158
+    ymin: 151
+  width: 254
+Misc_26.xml:
+  height: 261
+  objects:
+  - xmax: 239
+    xmin: 231
+    ymax: 52
+    ymin: 45
+  width: 345
+Misc_260.xml:
+  height: 203
+  objects:
+  - xmax: 143
+    xmin: 138
+    ymax: 83
+    ymin: 78
+  width: 292
+Misc_261.xml:
+  height: 183
+  objects:
+  - xmax: 282
+    xmin: 271
+    ymax: 79
+    ymin: 69
+  width: 303
+Misc_262.xml:
+  height: 205
+  objects:
+  - xmax: 205
+    xmin: 196
+    ymax: 65
+    ymin: 58
+  width: 301
+Misc_263.xml:
+  height: 169
+  objects:
+  - xmax: 126
+    xmin: 119
+    ymax: 83
+    ymin: 80
+  width: 251
+Misc_264.xml:
+  height: 172
+  objects:
+  - xmax: 157
+    xmin: 151
+    ymax: 119
+    ymin: 116
+  width: 254
+Misc_265.xml:
+  height: 209
+  objects:
+  - xmax: 194
+    xmin: 187
+    ymax: 115
+    ymin: 108
+  width: 318
+Misc_266.xml:
+  height: 209
+  objects:
+  - xmax: 146
+    xmin: 140
+    ymax: 115
+    ymin: 109
+  width: 316
+Misc_267.xml:
+  height: 210
+  objects:
+  - xmax: 181
+    xmin: 168
+    ymax: 135
+    ymin: 125
+  width: 316
+Misc_268.xml:
+  height: 210
+  objects:
+  - xmax: 144
+    xmin: 138
+    ymax: 107
+    ymin: 102
+  width: 315
+Misc_269.xml:
+  height: 200
+  objects:
+  - xmax: 140
+    xmin: 134
+    ymax: 70
+    ymin: 65
+  width: 314
+Misc_27.xml:
+  height: 250
+  objects:
+  - xmax: 261
+    xmin: 255
+    ymax: 159
+    ymin: 155
+  width: 340
+Misc_270.xml:
+  height: 159
+  objects:
+  - xmax: 76
+    xmin: 70
+    ymax: 74
+    ymin: 68
+  width: 253
+Misc_271.xml:
+  height: 169
+  objects:
+  - xmax: 162
+    xmin: 157
+    ymax: 31
+    ymin: 26
+  width: 251
+Misc_272.xml:
+  height: 221
+  objects:
+  - xmax: 110
+    xmin: 105
+    ymax: 67
+    ymin: 62
+  width: 314
+Misc_273.xml:
+  height: 157
+  objects:
+  - xmax: 79
+    xmin: 72
+    ymax: 86
+    ymin: 78
+  width: 209
+Misc_274.xml:
+  height: 157
+  objects:
+  - xmax: 73
+    xmin: 69
+    ymax: 45
+    ymin: 41
+  width: 209
+Misc_275.xml:
+  height: 174
+  objects:
+  - xmax: 110
+    xmin: 106
+    ymax: 22
+    ymin: 16
+  - xmax: 101
+    xmin: 97
+    ymax: 145
+    ymin: 140
+  - xmax: 91
+    xmin: 88
+    ymax: 148
+    ymin: 144
+  width: 251
+Misc_276.xml:
+  height: 241
+  objects:
+  - xmax: 213
+    xmin: 207
+    ymax: 136
+    ymin: 131
+  - xmax: 203
+    xmin: 196
+    ymax: 148
+    ymin: 141
+  - xmax: 213
+    xmin: 207
+    ymax: 157
+    ymin: 150
+  width: 352
+Misc_277.xml:
+  height: 171
+  objects:
+  - xmax: 248
+    xmin: 242
+    ymax: 49
+    ymin: 42
+  - xmax: 166
+    xmin: 161
+    ymax: 93
+    ymin: 87
+  - xmax: 58
+    xmin: 54
+    ymax: 99
+    ymin: 95
+  width: 253
+Misc_278.xml:
+  height: 213
+  objects:
+  - xmax: 260
+    xmin: 256
+    ymax: 84
+    ymin: 81
+  width: 308
+Misc_279.xml:
+  height: 180
+  objects:
+  - xmax: 196
+    xmin: 186
+    ymax: 118
+    ymin: 110
+  width: 280
+Misc_28.xml:
+  height: 256
+  objects:
+  - xmax: 110
+    xmin: 90
+    ymax: 128
+    ymin: 123
+  - xmax: 146
+    xmin: 122
+    ymax: 130
+    ymin: 126
+  width: 300
+Misc_280.xml:
+  height: 219
+  objects:
+  - xmax: 47
+    xmin: 41
+    ymax: 62
+    ymin: 56
+  - xmax: 13
+    xmin: 9
+    ymax: 216
+    ymin: 211
+  width: 323
+Misc_281.xml:
+  height: 152
+  objects:
+  - xmax: 261
+    xmin: 255
+    ymax: 144
+    ymin: 140
+  width: 273
+Misc_282.xml:
+  height: 236
+  objects:
+  - xmax: 291
+    xmin: 289
+    ymax: 91
+    ymin: 87
+  - xmax: 37
+    xmin: 35
+    ymax: 231
+    ymin: 227
+  width: 330
+Misc_283.xml:
+  height: 202
+  objects:
+  - xmax: 183
+    xmin: 181
+    ymax: 72
+    ymin: 68
+  width: 298
+Misc_284.xml:
+  height: 204
+  objects:
+  - xmax: 242
+    xmin: 239
+    ymax: 46
+    ymin: 42
+  - xmax: 239
+    xmin: 236
+    ymax: 50
+    ymin: 48
+  - xmax: 66
+    xmin: 64
+    ymax: 82
+    ymin: 80
+  - xmax: 275
+    xmin: 272
+    ymax: 108
+    ymin: 104
+  - xmax: 319
+    xmin: 317
+    ymax: 126
+    ymin: 124
+  - xmax: 178
+    xmin: 176
+    ymax: 160
+    ymin: 156
+  - xmax: 107
+    xmin: 105
+    ymax: 170
+    ymin: 168
+  width: 323
+Misc_285.xml:
+  height: 213
+  objects:
+  - xmax: 290
+    xmin: 286
+    ymax: 40
+    ymin: 38
+  - xmax: 233
+    xmin: 231
+    ymax: 132
+    ymin: 129
+  width: 311
+Misc_286.xml:
+  height: 237
+  objects:
+  - xmax: 109
+    xmin: 105
+    ymax: 204
+    ymin: 201
+  width: 237
+Misc_287.xml:
+  height: 240
+  objects:
+  - xmax: 105
+    xmin: 102
+    ymax: 17
+    ymin: 12
+  width: 320
+Misc_288.xml:
+  height: 240
+  objects:
+  - xmax: 153
+    xmin: 148
+    ymax: 74
+    ymin: 69
+  width: 320
+Misc_289.xml:
+  height: 240
+  objects:
+  - xmax: 168
+    xmin: 164
+    ymax: 132
+    ymin: 128
+  width: 320
+Misc_29.xml:
+  height: 240
+  objects:
+  - xmax: 119
+    xmin: 106
+    ymax: 100
+    ymin: 90
+  - xmax: 146
+    xmin: 133
+    ymax: 105
+    ymin: 95
+  - xmax: 180
+    xmin: 166
+    ymax: 115
+    ymin: 106
+  - xmax: 150
+    xmin: 135
+    ymax: 119
+    ymin: 109
+  width: 352
+Misc_290.xml:
+  height: 237
+  objects:
+  - xmax: 175
+    xmin: 168
+    ymax: 33
+    ymin: 28
+  - xmax: 103
+    xmin: 96
+    ymax: 112
+    ymin: 106
+  - xmax: 118
+    xmin: 111
+    ymax: 131
+    ymin: 126
+  width: 237
+Misc_291.xml:
+  height: 219
+  objects:
+  - xmax: 22
+    xmin: 14
+    ymax: 27
+    ymin: 19
+  - xmax: 60
+    xmin: 49
+    ymax: 47
+    ymin: 39
+  width: 323
+Misc_292.xml:
+  height: 207
+  objects:
+  - xmax: 129
+    xmin: 125
+    ymax: 122
+    ymin: 117
+  width: 294
+Misc_293.xml:
+  height: 168
+  objects:
+  - xmax: 122
+    xmin: 117
+    ymax: 51
+    ymin: 46
+  width: 263
+Misc_294.xml:
+  height: 240
+  objects:
+  - xmax: 149
+    xmin: 145
+    ymax: 59
+    ymin: 56
+  - xmax: 169
+    xmin: 167
+    ymax: 177
+    ymin: 174
+  width: 320
+Misc_295.xml:
+  height: 240
+  objects:
+  - xmax: 152
+    xmin: 146
+    ymax: 104
+    ymin: 97
+  width: 320
+Misc_296.xml:
+  height: 240
+  objects:
+  - xmax: 148
+    xmin: 143
+    ymax: 110
+    ymin: 105
+  width: 320
+Misc_297.xml:
+  height: 240
+  objects:
+  - xmax: 138
+    xmin: 134
+    ymax: 94
+    ymin: 90
+  width: 320
+Misc_298.xml:
+  height: 223
+  objects:
+  - xmax: 274
+    xmin: 267
+    ymax: 58
+    ymin: 49
+  - xmax: 162
+    xmin: 157
+    ymax: 113
+    ymin: 109
+  width: 342
+Misc_299.xml:
+  height: 243
+  objects:
+  - xmax: 83
+    xmin: 75
+    ymax: 75
+    ymin: 68
+  width: 326
+Misc_3.xml:
+  height: 324
+  objects:
+  - xmax: 205
+    xmin: 200
+    ymax: 146
+    ymin: 140
+  width: 323
+Misc_30.xml:
+  height: 201
+  objects:
+  - xmax: 140
+    xmin: 133
+    ymax: 88
+    ymin: 82
+  width: 304
+Misc_300.xml:
+  height: 172
+  objects:
+  - xmax: 121
+    xmin: 115
+    ymax: 76
+    ymin: 71
+  - xmax: 130
+    xmin: 126
+    ymax: 84
+    ymin: 79
+  width: 261
+Misc_301.xml:
+  height: 258
+  objects:
+  - xmax: 61
+    xmin: 55
+    ymax: 31
+    ymin: 27
+  - xmax: 68
+    xmin: 63
+    ymax: 32
+    ymin: 27
+  width: 374
+Misc_302.xml:
+  height: 221
+  objects:
+  - xmax: 283
+    xmin: 277
+    ymax: 199
+    ymin: 193
+  - xmax: 297
+    xmin: 289
+    ymax: 205
+    ymin: 199
+  width: 321
+Misc_303.xml:
+  height: 234
+  objects:
+  - xmax: 199
+    xmin: 191
+    ymax: 145
+    ymin: 139
+  - xmax: 263
+    xmin: 253
+    ymax: 157
+    ymin: 151
+  width: 315
+Misc_304.xml:
+  height: 210
+  objects:
+  - xmax: 107
+    xmin: 101
+    ymax: 114
+    ymin: 110
+  width: 210
+Misc_305.xml:
+  height: 200
+  objects:
+  - xmax: 32
+    xmin: 26
+    ymax: 58
+    ymin: 53
+  width: 303
+Misc_306.xml:
+  height: 238
+  objects:
+  - xmax: 178
+    xmin: 168
+    ymax: 126
+    ymin: 118
+  - xmax: 44
+    xmin: 40
+    ymax: 151
+    ymin: 143
+  width: 280
+Misc_307.xml:
+  height: 192
+  objects:
+  - xmax: 46
+    xmin: 44
+    ymax: 159
+    ymin: 156
+  - xmax: 43
+    xmin: 40
+    ymax: 161
+    ymin: 157
+  width: 277
+Misc_308.xml:
+  height: 206
+  objects:
+  - xmax: 124
+    xmin: 121
+    ymax: 95
+    ymin: 91
+  - xmax: 164
+    xmin: 160
+    ymax: 150
+    ymin: 146
+  - xmax: 181
+    xmin: 178
+    ymax: 203
+    ymin: 199
+  width: 298
+Misc_309.xml:
+  height: 187
+  objects:
+  - xmax: 72
+    xmin: 69
+    ymax: 66
+    ymin: 62
+  - xmax: 115
+    xmin: 105
+    ymax: 127
+    ymin: 122
+  width: 281
+Misc_31.xml:
+  height: 240
+  objects:
+  - xmax: 245
+    xmin: 241
+    ymax: 150
+    ymin: 147
+  width: 320
+Misc_310.xml:
+  height: 188
+  objects:
+  - xmax: 44
+    xmin: 40
+    ymax: 91
+    ymin: 86
+  width: 235
+Misc_311.xml:
+  height: 194
+  objects:
+  - xmax: 70
+    xmin: 64
+    ymax: 85
+    ymin: 81
+  width: 284
+Misc_312.xml:
+  height: 202
+  objects:
+  - xmax: 148
+    xmin: 140
+    ymax: 103
+    ymin: 98
+  width: 289
+Misc_313.xml:
+  height: 226
+  objects:
+  - xmax: 263
+    xmin: 254
+    ymax: 60
+    ymin: 50
+  - xmax: 279
+    xmin: 271
+    ymax: 59
+    ymin: 50
+  - xmax: 100
+    xmin: 95
+    ymax: 144
+    ymin: 136
+  width: 324
+Misc_314.xml:
+  height: 204
+  objects:
+  - xmax: 159
+    xmin: 148
+    ymax: 84
+    ymin: 77
+  width: 313
+Misc_315.xml:
+  height: 213
+  objects:
+  - xmax: 212
+    xmin: 207
+    ymax: 115
+    ymin: 112
+  width: 322
+Misc_316.xml:
+  height: 181
+  objects:
+  - xmax: 88
+    xmin: 82
+    ymax: 39
+    ymin: 32
+  - xmax: 10
+    xmin: 6
+    ymax: 46
+    ymin: 41
+  width: 252
+Misc_317.xml:
+  height: 200
+  objects:
+  - xmax: 263
+    xmin: 258
+    ymax: 65
+    ymin: 59
+  - xmax: 185
+    xmin: 181
+    ymax: 73
+    ymin: 67
+  - xmax: 22
+    xmin: 17
+    ymax: 157
+    ymin: 153
+  width: 280
+Misc_318.xml:
+  height: 200
+  objects:
+  - xmax: 32
+    xmin: 29
+    ymax: 59
+    ymin: 53
+  - xmax: 170
+    xmin: 159
+    ymax: 62
+    ymin: 53
+  - xmax: 28
+    xmin: 25
+    ymax: 60
+    ymin: 56
+  - xmax: 229
+    xmin: 221
+    ymax: 178
+    ymin: 172
+  width: 291
+Misc_319.xml:
+  height: 231
+  objects:
+  - xmax: 73
+    xmin: 69
+    ymax: 38
+    ymin: 34
+  width: 318
+Misc_32.xml:
+  height: 217
+  objects:
+  - xmax: 178
+    xmin: 175
+    ymax: 207
+    ymin: 204
+  width: 300
+Misc_320.xml:
+  height: 166
+  objects:
+  - xmax: 91
+    xmin: 86
+    ymax: 44
+    ymin: 39
+  - xmax: 207
+    xmin: 203
+    ymax: 88
+    ymin: 83
+  - xmax: 207
+    xmin: 203
+    ymax: 95
+    ymin: 90
+  width: 266
+Misc_321.xml:
+  height: 192
+  objects:
+  - xmax: 165
+    xmin: 160
+    ymax: 68
+    ymin: 57
+  width: 253
+Misc_322.xml:
+  height: 257
+  objects:
+  - xmax: 147
+    xmin: 138
+    ymax: 146
+    ymin: 135
+  width: 257
+Misc_323.xml:
+  height: 186
+  objects:
+  - xmax: 212
+    xmin: 208
+    ymax: 87
+    ymin: 83
+  width: 285
+Misc_324.xml:
+  height: 178
+  objects:
+  - xmax: 20
+    xmin: 16
+    ymax: 24
+    ymin: 18
+  width: 278
+Misc_325.xml:
+  height: 180
+  objects:
+  - xmax: 170
+    xmin: 166
+    ymax: 24
+    ymin: 20
+  width: 283
+Misc_326.xml:
+  height: 264
+  objects:
+  - xmax: 134
+    xmin: 129
+    ymax: 16
+    ymin: 10
+  - xmax: 242
+    xmin: 238
+    ymax: 71
+    ymin: 66
+  width: 311
+Misc_327.xml:
+  height: 231
+  objects:
+  - xmax: 308
+    xmin: 304
+    ymax: 33
+    ymin: 28
+  width: 336
+Misc_328.xml:
+  height: 163
+  objects:
+  - xmax: 133
+    xmin: 129
+    ymax: 74
+    ymin: 69
+  width: 216
+Misc_329.xml:
+  height: 210
+  objects:
+  - xmax: 206
+    xmin: 202
+    ymax: 33
+    ymin: 28
+  width: 248
+Misc_33.xml:
+  height: 209
+  objects:
+  - xmax: 51
+    xmin: 48
+    ymax: 134
+    ymin: 131
+  width: 302
+Misc_330.xml:
+  height: 258
+  objects:
+  - xmax: 316
+    xmin: 310
+    ymax: 21
+    ymin: 15
+  width: 339
+Misc_331.xml:
+  height: 169
+  objects:
+  - xmax: 34
+    xmin: 30
+    ymax: 54
+    ymin: 50
+  width: 269
+Misc_332.xml:
+  height: 201
+  objects:
+  - xmax: 14
+    xmin: 10
+    ymax: 147
+    ymin: 144
+  - xmax: 130
+    xmin: 126
+    ymax: 184
+    ymin: 181
+  width: 261
+Misc_333.xml:
+  height: 170
+  objects:
+  - xmax: 130
+    xmin: 126
+    ymax: 74
+    ymin: 71
+  width: 241
+Misc_334.xml:
+  height: 233
+  objects:
+  - xmax: 189
+    xmin: 186
+    ymax: 108
+    ymin: 105
+  width: 263
+Misc_335.xml:
+  height: 247
+  objects:
+  - xmax: 149
+    xmin: 145
+    ymax: 109
+    ymin: 106
+  width: 294
+Misc_336.xml:
+  height: 209
+  objects:
+  - xmax: 97
+    xmin: 92
+    ymax: 88
+    ymin: 85
+  - xmax: 220
+    xmin: 216
+    ymax: 141
+    ymin: 138
+  width: 300
+Misc_337.xml:
+  height: 181
+  objects:
+  - xmax: 123
+    xmin: 120
+    ymax: 99
+    ymin: 97
+  width: 273
+Misc_338.xml:
+  height: 192
+  objects:
+  - xmax: 100
+    xmin: 97
+    ymax: 86
+    ymin: 84
+  width: 276
+Misc_339.xml:
+  height: 228
+  objects:
+  - xmax: 158
+    xmin: 156
+    ymax: 147
+    ymin: 143
+  width: 307
+Misc_34.xml:
+  height: 240
+  objects:
+  - xmax: 222
+    xmin: 209
+    ymax: 99
+    ymin: 93
+  width: 319
+Misc_340.xml:
+  height: 202
+  objects:
+  - xmax: 130
+    xmin: 125
+    ymax: 110
+    ymin: 104
+  width: 318
+Misc_341.xml:
+  height: 215
+  objects:
+  - xmax: 239
+    xmin: 236
+    ymax: 172
+    ymin: 168
+  width: 284
+Misc_342.xml:
+  height: 199
+  objects:
+  - xmax: 158
+    xmin: 155
+    ymax: 122
+    ymin: 118
+  width: 296
+Misc_343.xml:
+  height: 227
+  objects:
+  - xmax: 88
+    xmin: 84
+    ymax: 202
+    ymin: 199
+  width: 358
+Misc_344.xml:
+  height: 228
+  objects:
+  - xmax: 122
+    xmin: 116
+    ymax: 97
+    ymin: 90
+  width: 342
+Misc_345.xml:
+  height: 265
+  objects:
+  - xmax: 249
+    xmin: 243
+    ymax: 99
+    ymin: 92
+  width: 352
+Misc_346.xml:
+  height: 212
+  objects:
+  - xmax: 184
+    xmin: 181
+    ymax: 82
+    ymin: 77
+  width: 294
+Misc_347.xml:
+  height: 223
+  objects:
+  - xmax: 99
+    xmin: 96
+    ymax: 137
+    ymin: 135
+  width: 296
+Misc_348.xml:
+  height: 319
+  objects:
+  - xmax: 36
+    xmin: 31
+    ymax: 188
+    ymin: 182
+  width: 375
+Misc_349.xml:
+  height: 273
+  objects:
+  - xmax: 174
+    xmin: 167
+    ymax: 151
+    ymin: 143
+  width: 335
+Misc_35.xml:
+  height: 255
+  objects:
+  - xmax: 152
+    xmin: 149
+    ymax: 95
+    ymin: 92
+  width: 320
+Misc_350.xml:
+  height: 252
+  objects:
+  - xmax: 38
+    xmin: 32
+    ymax: 122
+    ymin: 117
+  width: 322
+Misc_351.xml:
+  height: 205
+  objects:
+  - xmax: 25
+    xmin: 20
+    ymax: 94
+    ymin: 91
+  width: 305
+Misc_352.xml:
+  height: 214
+  objects:
+  - xmax: 28
+    xmin: 22
+    ymax: 171
+    ymin: 163
+  width: 305
+Misc_353.xml:
+  height: 324
+  objects:
+  - xmax: 236
+    xmin: 229
+    ymax: 312
+    ymin: 304
+  width: 324
+Misc_354.xml:
+  height: 209
+  objects:
+  - xmax: 160
+    xmin: 153
+    ymax: 79
+    ymin: 72
+  width: 304
+Misc_355.xml:
+  height: 212
+  objects:
+  - xmax: 14
+    xmin: 11
+    ymax: 191
+    ymin: 187
+  - xmax: 71
+    xmin: 67
+    ymax: 205
+    ymin: 200
+  width: 307
+Misc_356.xml:
+  height: 356
+  objects:
+  - xmax: 345
+    xmin: 339
+    ymax: 97
+    ymin: 90
+  width: 356
+Misc_357.xml:
+  height: 265
+  objects:
+  - xmax: 42
+    xmin: 37
+    ymax: 161
+    ymin: 155
+  width: 265
+Misc_358.xml:
+  height: 332
+  objects:
+  - xmax: 117
+    xmin: 110
+    ymax: 39
+    ymin: 29
+  width: 332
+Misc_359.xml:
+  height: 291
+  objects:
+  - xmax: 135
+    xmin: 127
+    ymax: 218
+    ymin: 210
+  - xmax: 85
+    xmin: 79
+    ymax: 259
+    ymin: 252
+  width: 291
+Misc_36.xml:
+  height: 255
+  objects:
+  - xmax: 217
+    xmin: 215
+    ymax: 222
+    ymin: 219
+  width: 320
+Misc_360.xml:
+  height: 327
+  objects:
+  - xmax: 41
+    xmin: 35
+    ymax: 16
+    ymin: 12
+  width: 327
+Misc_361.xml:
+  height: 307
+  objects:
+  - xmax: 102
+    xmin: 95
+    ymax: 293
+    ymin: 285
+  width: 306
+Misc_362.xml:
+  height: 192
+  objects:
+  - xmax: 16
+    xmin: 12
+    ymax: 98
+    ymin: 91
+  width: 325
+Misc_363.xml:
+  height: 305
+  objects:
+  - xmax: 283
+    xmin: 278
+    ymax: 243
+    ymin: 237
+  width: 306
+Misc_364.xml:
+  height: 280
+  objects:
+  - xmax: 166
+    xmin: 160
+    ymax: 204
+    ymin: 200
+  width: 280
+Misc_365.xml:
+  height: 268
+  objects:
+  - xmax: 238
+    xmin: 231
+    ymax: 245
+    ymin: 239
+  width: 268
+Misc_366.xml:
+  height: 259
+  objects:
+  - xmax: 118
+    xmin: 114
+    ymax: 18
+    ymin: 14
+  width: 259
+Misc_367.xml:
+  height: 274
+  objects:
+  - xmax: 41
+    xmin: 37
+    ymax: 150
+    ymin: 145
+  width: 274
+Misc_368.xml:
+  height: 226
+  objects:
+  - xmax: 20
+    xmin: 14
+    ymax: 94
+    ymin: 87
+  width: 226
+Misc_369.xml:
+  height: 210
+  objects:
+  - xmax: 92
+    xmin: 89
+    ymax: 80
+    ymin: 76
+  width: 210
+Misc_37.xml:
+  height: 255
+  objects:
+  - xmax: 127
+    xmin: 124
+    ymax: 134
+    ymin: 131
+  width: 320
+Misc_370.xml:
+  height: 255
+  objects:
+  - xmax: 103
+    xmin: 101
+    ymax: 162
+    ymin: 160
+  width: 255
+Misc_371.xml:
+  height: 174
+  objects:
+  - xmax: 23
+    xmin: 20
+    ymax: 88
+    ymin: 86
+  width: 187
+Misc_372.xml:
+  height: 220
+  objects:
+  - xmax: 77
+    xmin: 72
+    ymax: 20
+    ymin: 16
+  width: 232
+Misc_373.xml:
+  height: 205
+  objects:
+  - xmax: 99
+    xmin: 92
+    ymax: 106
+    ymin: 99
+  width: 206
+Misc_374.xml:
+  height: 253
+  objects:
+  - xmax: 182
+    xmin: 177
+    ymax: 149
+    ymin: 141
+  width: 240
+Misc_375.xml:
+  height: 236
+  objects:
+  - xmax: 53
+    xmin: 46
+    ymax: 166
+    ymin: 157
+  width: 254
+Misc_376.xml:
+  height: 205
+  objects:
+  - xmax: 30
+    xmin: 21
+    ymax: 126
+    ymin: 117
+  width: 251
+Misc_377.xml:
+  height: 200
+  objects:
+  - xmax: 68
+    xmin: 64
+    ymax: 28
+    ymin: 23
+  width: 224
+Misc_378.xml:
+  height: 219
+  objects:
+  - xmax: 113
+    xmin: 110
+    ymax: 52
+    ymin: 48
+  width: 219
+Misc_379.xml:
+  height: 211
+  objects:
+  - xmax: 63
+    xmin: 53
+    ymax: 192
+    ymin: 182
+  - xmax: 52
+    xmin: 44
+    ymax: 202
+    ymin: 195
+  - xmax: 67
+    xmin: 56
+    ymax: 208
+    ymin: 201
+  width: 306
+Misc_38.xml:
+  height: 255
+  objects:
+  - xmax: 126
+    xmin: 113
+    ymax: 146
+    ymin: 141
+  width: 319
+Misc_380.xml:
+  height: 253
+  objects:
+  - xmax: 255
+    xmin: 244
+    ymax: 126
+    ymin: 114
+  width: 360
+Misc_381.xml:
+  height: 335
+  objects:
+  - xmax: 153
+    xmin: 144
+    ymax: 238
+    ymin: 227
+  width: 371
+Misc_382.xml:
+  height: 353
+  objects:
+  - xmax: 137
+    xmin: 130
+    ymax: 69
+    ymin: 63
+  width: 323
+Misc_383.xml:
+  height: 320
+  objects:
+  - xmax: 228
+    xmin: 219
+    ymax: 89
+    ymin: 81
+  width: 344
+Misc_384.xml:
+  height: 284
+  objects:
+  - xmax: 264
+    xmin: 256
+    ymax: 234
+    ymin: 226
+  width: 402
+Misc_385.xml:
+  height: 349
+  objects:
+  - xmax: 304
+    xmin: 299
+    ymax: 174
+    ymin: 168
+  width: 439
+Misc_386.xml:
+  height: 299
+  objects:
+  - xmax: 274
+    xmin: 266
+    ymax: 221
+    ymin: 211
+  width: 300
+Misc_387.xml:
+  height: 289
+  objects:
+  - xmax: 40
+    xmin: 34
+    ymax: 217
+    ymin: 209
+  width: 292
+Misc_388.xml:
+  height: 271
+  objects:
+  - xmax: 234
+    xmin: 227
+    ymax: 146
+    ymin: 140
+  width: 256
+Misc_389.xml:
+  height: 315
+  objects:
+  - xmax: 318
+    xmin: 310
+    ymax: 265
+    ymin: 257
+  width: 331
+Misc_39.xml:
+  height: 171
+  objects:
+  - xmax: 109
+    xmin: 102
+    ymax: 92
+    ymin: 88
+  width: 256
+Misc_390.xml:
+  height: 271
+  objects:
+  - xmax: 260
+    xmin: 253
+    ymax: 215
+    ymin: 207
+  width: 281
+Misc_391.xml:
+  height: 301
+  objects:
+  - xmax: 154
+    xmin: 148
+    ymax: 43
+    ymin: 39
+  width: 376
+Misc_392.xml:
+  height: 300
+  objects:
+  - xmax: 180
+    xmin: 167
+    ymax: 156
+    ymin: 141
+  width: 331
+Misc_393.xml:
+  height: 295
+  objects:
+  - xmax: 31
+    xmin: 18
+    ymax: 42
+    ymin: 29
+  width: 329
+Misc_394.xml:
+  height: 213
+  objects:
+  - xmax: 60
+    xmin: 51
+    ymax: 64
+    ymin: 55
+  width: 307
+Misc_395.xml:
+  height: 362
+  objects:
+  - xmax: 167
+    xmin: 161
+    ymax: 347
+    ymin: 340
+  width: 374
+Misc_396.xml:
+  height: 317
+  objects:
+  - xmax: 31
+    xmin: 23
+    ymax: 215
+    ymin: 207
+  width: 301
+Misc_397.xml:
+  height: 357
+  objects:
+  - xmax: 27
+    xmin: 21
+    ymax: 140
+    ymin: 134
+  width: 341
+Misc_398.xml:
+  height: 284
+  objects:
+  - xmax: 70
+    xmin: 62
+    ymax: 281
+    ymin: 272
+  width: 281
+Misc_399.xml:
+  height: 217
+  objects:
+  - xmax: 270
+    xmin: 262
+    ymax: 127
+    ymin: 120
+  width: 298
+Misc_4.xml:
+  height: 278
+  objects:
+  - xmax: 194
+    xmin: 153
+    ymax: 149
+    ymin: 138
+  width: 348
+Misc_40.xml:
+  height: 96
+  objects:
+  - xmax: 61
+    xmin: 58
+    ymax: 71
+    ymin: 68
+  width: 135
+Misc_400.xml:
+  height: 211
+  objects:
+  - xmax: 227
+    xmin: 219
+    ymax: 17
+    ymin: 7
+  width: 306
+Misc_401.xml:
+  height: 223
+  objects:
+  - xmax: 45
+    xmin: 39
+    ymax: 19
+    ymin: 16
+  - xmax: 73
+    xmin: 67
+    ymax: 45
+    ymin: 42
+  width: 332
+Misc_402.xml:
+  height: 226
+  objects:
+  - xmax: 162
+    xmin: 159
+    ymax: 128
+    ymin: 125
+  width: 350
+Misc_403.xml:
+  height: 213
+  objects:
+  - xmax: 111
+    xmin: 104
+    ymax: 102
+    ymin: 94
+  width: 311
+Misc_404.xml:
+  height: 270
+  objects:
+  - xmax: 166
+    xmin: 159
+    ymax: 120
+    ymin: 113
+  width: 302
+Misc_405.xml:
+  height: 194
+  objects:
+  - xmax: 18
+    xmin: 13
+    ymax: 37
+    ymin: 30
+  width: 213
+Misc_406.xml:
+  height: 222
+  objects:
+  - xmax: 172
+    xmin: 167
+    ymax: 40
+    ymin: 33
+  width: 222
+Misc_407.xml:
+  height: 241
+  objects:
+  - xmax: 37
+    xmin: 29
+    ymax: 53
+    ymin: 48
+  width: 282
+Misc_408.xml:
+  height: 310
+  objects:
+  - xmax: 155
+    xmin: 145
+    ymax: 39
+    ymin: 34
+  width: 310
+Misc_409.xml:
+  height: 242
+  objects:
+  - xmax: 62
+    xmin: 55
+    ymax: 154
+    ymin: 149
+  width: 277
+Misc_41.xml:
+  height: 199
+  objects:
+  - xmax: 51
+    xmin: 42
+    ymax: 22
+    ymin: 17
+  width: 304
+Misc_410.xml:
+  height: 204
+  objects:
+  - xmax: 136
+    xmin: 130
+    ymax: 120
+    ymin: 116
+  width: 280
+Misc_411.xml:
+  height: 187
+  objects:
+  - xmax: 253
+    xmin: 239
+    ymax: 173
+    ymin: 158
+  width: 327
+Misc_412.xml:
+  height: 184
+  objects:
+  - xmax: 149
+    xmin: 145
+    ymax: 60
+    ymin: 56
+  width: 312
+Misc_413.xml:
+  height: 209
+  objects:
+  - xmax: 250
+    xmin: 248
+    ymax: 195
+    ymin: 192
+  width: 302
+Misc_414.xml:
+  height: 193
+  objects:
+  - xmax: 223
+    xmin: 210
+    ymax: 79
+    ymin: 74
+  width: 284
+Misc_415.xml:
+  height: 200
+  objects:
+  - xmax: 164
+    xmin: 159
+    ymax: 55
+    ymin: 50
+  width: 303
+Misc_416.xml:
+  height: 164
+  objects:
+  - xmax: 191
+    xmin: 180
+    ymax: 11
+    ymin: 2
+  width: 255
+Misc_417.xml:
+  height: 220
+  objects:
+  - xmax: 159
+    xmin: 155
+    ymax: 18
+    ymin: 15
+  width: 335
+Misc_418.xml:
+  height: 247
+  objects:
+  - xmax: 285
+    xmin: 281
+    ymax: 162
+    ymin: 159
+  width: 294
+Misc_419.xml:
+  height: 234
+  objects:
+  - xmax: 38
+    xmin: 32
+    ymax: 42
+    ymin: 35
+  width: 315
+Misc_42.xml:
+  height: 196
+  objects:
+  - xmax: 165
+    xmin: 158
+    ymax: 132
+    ymin: 127
+  width: 304
+Misc_420.xml:
+  height: 223
+  objects:
+  - xmax: 307
+    xmin: 304
+    ymax: 95
+    ymin: 92
+  - xmax: 137
+    xmin: 133
+    ymax: 122
+    ymin: 119
+  - xmax: 269
+    xmin: 265
+    ymax: 198
+    ymin: 194
+  - xmax: 147
+    xmin: 145
+    ymax: 208
+    ymin: 202
+  - xmax: 317
+    xmin: 313
+    ymax: 210
+    ymin: 206
+  width: 344
+Misc_421.xml:
+  height: 225
+  objects:
+  - xmax: 122
+    xmin: 119
+    ymax: 99
+    ymin: 96
+  - xmax: 84
+    xmin: 80
+    ymax: 202
+    ymin: 198
+  - xmax: 132
+    xmin: 128
+    ymax: 214
+    ymin: 210
+  width: 334
+Misc_422.xml:
+  height: 184
+  objects:
+  - xmax: 207
+    xmin: 202
+    ymax: 127
+    ymin: 124
+  width: 276
+Misc_423.xml:
+  height: 182
+  objects:
+  - xmax: 234
+    xmin: 226
+    ymax: 11
+    ymin: 7
+  width: 280
+Misc_424.xml:
+  height: 181
+  objects:
+  - xmax: 188
+    xmin: 184
+    ymax: 44
+    ymin: 39
+  - xmax: 182
+    xmin: 176
+    ymax: 48
+    ymin: 42
+  - xmax: 245
+    xmin: 240
+    ymax: 181
+    ymin: 176
+  width: 252
+Misc_425.xml:
+  height: 182
+  objects:
+  - xmax: 194
+    xmin: 189
+    ymax: 22
+    ymin: 19
+  - xmax: 166
+    xmin: 156
+    ymax: 137
+    ymin: 130
+  width: 321
+Misc_426.xml:
+  height: 186
+  objects:
+  - xmax: 122
+    xmin: 119
+    ymax: 141
+    ymin: 135
+  - xmax: 260
+    xmin: 249
+    ymax: 144
+    ymin: 135
+  - xmax: 118
+    xmin: 115
+    ymax: 142
+    ymin: 138
+  - xmax: 73
+    xmin: 66
+    ymax: 148
+    ymin: 142
+  width: 270
+Misc_427.xml:
+  height: 184
+  objects:
+  - xmax: 126
+    xmin: 122
+    ymax: 27
+    ymin: 21
+  - xmax: 150
+    xmin: 146
+    ymax: 171
+    ymin: 165
+  width: 251
+Misc_43.xml:
+  height: 194
+  objects:
+  - xmax: 120
+    xmin: 115
+    ymax: 85
+    ymin: 81
+  width: 296
+Misc_44.xml:
+  height: 197
+  objects:
+  - xmax: 162
+    xmin: 155
+    ymax: 99
+    ymin: 87
+  width: 311
+Misc_45.xml:
+  height: 189
+  objects:
+  - xmax: 201
+    xmin: 187
+    ymax: 115
+    ymin: 100
+  width: 298
+Misc_46.xml:
+  height: 200
+  objects:
+  - xmax: 148
+    xmin: 141
+    ymax: 86
+    ymin: 80
+  width: 289
+Misc_47.xml:
+  height: 215
+  objects:
+  - xmax: 144
+    xmin: 141
+    ymax: 92
+    ymin: 89
+  width: 282
+Misc_48.xml:
+  height: 261
+  objects:
+  - xmax: 197
+    xmin: 182
+    ymax: 132
+    ymin: 126
+  width: 313
+Misc_49.xml:
+  height: 206
+  objects:
+  - xmax: 67
+    xmin: 61
+    ymax: 97
+    ymin: 94
+  width: 254
+Misc_5.xml:
+  height: 240
+  objects:
+  - xmax: 125
+    xmin: 118
+    ymax: 121
+    ymin: 112
+  width: 320
+Misc_50.xml:
+  height: 192
+  objects:
+  - xmax: 127
+    xmin: 122
+    ymax: 76
+    ymin: 70
+  width: 319
+Misc_51.xml:
+  height: 195
+  objects:
+  - xmax: 149
+    xmin: 143
+    ymax: 81
+    ymin: 78
+  width: 294
+Misc_52.xml:
+  height: 210
+  objects:
+  - xmax: 160
+    xmin: 153
+    ymax: 195
+    ymin: 191
+  width: 301
+Misc_53.xml:
+  height: 290
+  objects:
+  - xmax: 120
+    xmin: 115
+    ymax: 104
+    ymin: 99
+  - xmax: 169
+    xmin: 163
+    ymax: 131
+    ymin: 125
+  width: 390
+Misc_54.xml:
+  height: 198
+  objects:
+  - xmax: 175
+    xmin: 167
+    ymax: 84
+    ymin: 77
+  width: 303
+Misc_55.xml:
+  height: 208
+  objects:
+  - xmax: 198
+    xmin: 192
+    ymax: 83
+    ymin: 78
+  width: 305
+Misc_56.xml:
+  height: 159
+  objects:
+  - xmax: 183
+    xmin: 175
+    ymax: 85
+    ymin: 81
+  width: 241
+Misc_57.xml:
+  height: 201
+  objects:
+  - xmax: 124
+    xmin: 120
+    ymax: 19
+    ymin: 16
+  width: 255
+Misc_58.xml:
+  height: 252
+  objects:
+  - xmax: 64
+    xmin: 48
+    ymax: 19
+    ymin: 14
+  width: 330
+Misc_59.xml:
+  height: 272
+  objects:
+  - xmax: 253
+    xmin: 245
+    ymax: 24
+    ymin: 19
+  - xmax: 244
+    xmin: 241
+    ymax: 23
+    ymin: 21
+  width: 305
+Misc_6.xml:
+  height: 229
+  objects:
+  - xmax: 117
+    xmin: 108
+    ymax: 130
+    ymin: 124
+  width: 293
+Misc_60.xml:
+  height: 240
+  objects:
+  - xmax: 221
+    xmin: 198
+    ymax: 116
+    ymin: 105
+  width: 274
+Misc_61.xml:
+  height: 292
+  objects:
+  - xmax: 220
+    xmin: 210
+    ymax: 140
+    ymin: 132
+  width: 371
+Misc_62.xml:
+  height: 235
+  objects:
+  - xmax: 79
+    xmin: 60
+    ymax: 202
+    ymin: 193
+  width: 269
+Misc_63.xml:
+  height: 206
+  objects:
+  - xmax: 93
+    xmin: 74
+    ymax: 109
+    ymin: 101
+  width: 291
+Misc_64.xml:
+  height: 213
+  objects:
+  - xmax: 140
+    xmin: 127
+    ymax: 186
+    ymin: 178
+  width: 307
+Misc_65.xml:
+  height: 271
+  objects:
+  - xmax: 185
+    xmin: 162
+    ymax: 260
+    ymin: 248
+  - xmax: 156
+    xmin: 151
+    ymax: 259
+    ymin: 255
+  width: 396
+Misc_66.xml:
+  height: 256
+  objects:
+  - xmax: 145
+    xmin: 139
+    ymax: 45
+    ymin: 42
+  width: 320
+Misc_67.xml:
+  height: 256
+  objects:
+  - xmax: 33
+    xmin: 29
+    ymax: 99
+    ymin: 95
+  width: 320
+Misc_68.xml:
+  height: 213
+  objects:
+  - xmax: 163
+    xmin: 160
+    ymax: 63
+    ymin: 59
+  width: 305
+Misc_69.xml:
+  height: 256
+  objects:
+  - xmax: 288
+    xmin: 278
+    ymax: 74
+    ymin: 69
+  width: 320
+Misc_7.xml:
+  height: 232
+  objects:
+  - xmax: 224
+    xmin: 209
+    ymax: 125
+    ymin: 120
+  width: 297
+Misc_70.xml:
+  height: 251
+  objects:
+  - xmax: 167
+    xmin: 161
+    ymax: 113
+    ymin: 107
+  width: 338
+Misc_71.xml:
+  height: 256
+  objects:
+  - xmax: 136
+    xmin: 128
+    ymax: 207
+    ymin: 202
+  width: 320
+Misc_72.xml:
+  height: 238
+  objects:
+  - xmax: 156
+    xmin: 150
+    ymax: 75
+    ymin: 70
+  width: 324
+Misc_73.xml:
+  height: 265
+  objects:
+  - xmax: 273
+    xmin: 270
+    ymax: 70
+    ymin: 67
+  width: 331
+Misc_74.xml:
+  height: 236
+  objects:
+  - xmax: 149
+    xmin: 137
+    ymax: 84
+    ymin: 76
+  width: 329
+Misc_75.xml:
+  height: 217
+  objects:
+  - xmax: 139
+    xmin: 126
+    ymax: 120
+    ymin: 111
+  - xmax: 173
+    xmin: 170
+    ymax: 149
+    ymin: 146
+  width: 308
+Misc_76.xml:
+  height: 240
+  objects:
+  - xmax: 94
+    xmin: 91
+    ymax: 214
+    ymin: 208
+  width: 324
+Misc_77.xml:
+  height: 186
+  objects:
+  - xmax: 202
+    xmin: 190
+    ymax: 123
+    ymin: 114
+  width: 275
+Misc_78.xml:
+  height: 245
+  objects:
+  - xmax: 72
+    xmin: 63
+    ymax: 184
+    ymin: 179
+  width: 336
+Misc_79.xml:
+  height: 272
+  objects:
+  - xmax: 195
+    xmin: 190
+    ymax: 66
+    ymin: 62
+  width: 407
+Misc_8.xml:
+  height: 245
+  objects:
+  - xmax: 129
+    xmin: 123
+    ymax: 141
+    ymin: 139
+  width: 245
+Misc_80.xml:
+  height: 294
+  objects:
+  - xmax: 35
+    xmin: 25
+    ymax: 170
+    ymin: 162
+  width: 333
+Misc_81.xml:
+  height: 282
+  objects:
+  - xmax: 140
+    xmin: 131
+    ymax: 145
+    ymin: 141
+  width: 332
+Misc_82.xml:
+  height: 307
+  objects:
+  - xmax: 220
+    xmin: 210
+    ymax: 45
+    ymin: 40
+  width: 302
+Misc_83.xml:
+  height: 254
+  objects:
+  - xmax: 65
+    xmin: 62
+    ymax: 114
+    ymin: 111
+  width: 212
+Misc_84.xml:
+  height: 202
+  objects:
+  - xmax: 133
+    xmin: 116
+    ymax: 128
+    ymin: 123
+  width: 303
+Misc_85.xml:
+  height: 186
+  objects:
+  - xmax: 44
+    xmin: 37
+    ymax: 32
+    ymin: 25
+  width: 245
+Misc_86.xml:
+  height: 207
+  objects:
+  - xmax: 109
+    xmin: 93
+    ymax: 28
+    ymin: 22
+  width: 305
+Misc_87.xml:
+  height: 188
+  objects:
+  - xmax: 154
+    xmin: 137
+    ymax: 68
+    ymin: 58
+  width: 294
+Misc_88.xml:
+  height: 213
+  objects:
+  - xmax: 136
+    xmin: 120
+    ymax: 106
+    ymin: 96
+  width: 327
+Misc_89.xml:
+  height: 197
+  objects:
+  - xmax: 163
+    xmin: 157
+    ymax: 20
+    ymin: 16
+  width: 301
+Misc_9.xml:
+  height: 200
+  objects:
+  - xmax: 163
+    xmin: 159
+    ymax: 141
+    ymin: 138
+  width: 256
+Misc_90.xml:
+  height: 212
+  objects:
+  - xmax: 106
+    xmin: 88
+    ymax: 70
+    ymin: 55
+  width: 304
+Misc_91.xml:
+  height: 197
+  objects:
+  - xmax: 177
+    xmin: 164
+    ymax: 128
+    ymin: 118
+  width: 269
+Misc_92.xml:
+  height: 212
+  objects:
+  - xmax: 151
+    xmin: 137
+    ymax: 71
+    ymin: 66
+  width: 363
+Misc_93.xml:
+  height: 222
+  objects:
+  - xmax: 176
+    xmin: 166
+    ymax: 128
+    ymin: 121
+  width: 313
+Misc_94.xml:
+  height: 235
+  objects:
+  - xmax: 151
+    xmin: 138
+    ymax: 111
+    ymin: 102
+  width: 328
+Misc_95.xml:
+  height: 185
+  objects:
+  - xmax: 137
+    xmin: 127
+    ymax: 19
+    ymin: 12
+  width: 283
+Misc_96.xml:
+  height: 215
+  objects:
+  - xmax: 163
+    xmin: 147
+    ymax: 124
+    ymin: 114
+  width: 291
+Misc_97.xml:
+  height: 206
+  objects:
+  - xmax: 237
+    xmin: 232
+    ymax: 40
+    ymin: 36
+  width: 286
+Misc_98.xml:
+  height: 263
+  objects:
+  - xmax: 330
+    xmin: 325
+    ymax: 221
+    ymin: 215
+  width: 343
+Misc_99.xml:
+  height: 221
+  objects:
+  - xmax: 59
+    xmin: 50
+    ymax: 73
+    ymin: 68
+  - xmax: 226
+    xmin: 218
+    ymax: 182
+    ymin: 177
+  width: 334
+S1_1.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_11.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_12.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_14.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_2.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_20.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_24.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_25.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_30.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_32.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_33.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_38.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_41.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_44.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_47.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_48.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_50.xml:
+  height: 512
+  objects: []
+  width: 640
+S1_51.xml:
+  height: 512
+  objects: []
+  width: 640
+S20210303_S10_48.xml:
+  height: 1024
+  objects:
+  - xmax: 710
+    xmin: 701
+    ymax: 365
+    ymin: 355
+  width: 1024
+S20210303_S3_146.xml:
+  height: 512
+  objects:
+  - xmax: 228
+    xmin: 208
+    ymax: 302
+    ymin: 291
+  width: 512
+S20210303_S4_25.xml:
+  height: 1024
+  objects:
+  - xmax: 470
+    xmin: 464
+    ymax: 599
+    ymin: 596
+  width: 1024
+S20210303_S5_28.xml:
+  height: 1024
+  objects:
+  - xmax: 436
+    xmin: 425
+    ymax: 777
+    ymin: 774
+  width: 1024
+S20210303_S6_23.xml:
+  height: 1024
+  objects:
+  - xmax: 592
+    xmin: 581
+    ymax: 743
+    ymin: 736
+  width: 1024
+S20210303_S7_1.xml:
+  height: 1024
+  objects:
+  - xmax: 687
+    xmin: 680
+    ymax: 283
+    ymin: 277
+  width: 1024
+S20210303_S8_28.xml:
+  height: 1024
+  objects:
+  - xmax: 491
+    xmin: 486
+    ymax: 435
+    ymin: 431
+  width: 1024
+S20210303_S9_1.xml:
+  height: 1024
+  objects:
+  - xmax: 425
+    xmin: 416
+    ymax: 630
+    ymin: 622
+  width: 1024
+S20210407_S1_23.xml:
+  height: 512
+  objects:
+  - xmax: 389
+    xmin: 368
+    ymax: 436
+    ymin: 420
+  width: 640
+S20210407_S1_38.xml:
+  height: 512
+  objects:
+  - xmax: 369
+    xmin: 353
+    ymax: 429
+    ymin: 416
+  width: 640
+S20210407_S1_68.xml:
+  height: 512
+  objects:
+  - xmax: 293
+    xmin: 273
+    ymax: 440
+    ymin: 417
+  width: 640
+S20210407_S2_15.xml:
+  height: 512
+  objects:
+  - xmax: 315
+    xmin: 309
+    ymax: 184
+    ymin: 179
+  width: 640
+S20210422_S1_4.xml:
+  height: 512
+  objects:
+  - xmax: 442
+    xmin: 437
+    ymax: 287
+    ymin: 283
+  - xmax: 608
+    xmin: 602
+    ymax: 380
+    ymin: 375
+  - xmax: 585
+    xmin: 578
+    ymax: 450
+    ymin: 448
+  width: 640
+S20210422_S1_94.xml:
+  height: 512
+  objects:
+  - xmax: 335
+    xmin: 329
+    ymax: 95
+    ymin: 91
+  - xmax: 509
+    xmin: 505
+    ymax: 380
+    ymin: 376
+  width: 640
+S20210422_S2_1.xml:
+  height: 512
+  objects:
+  - xmax: 444
+    xmin: 437
+    ymax: 305
+    ymin: 300
+  width: 640
+S20210422_S2_101.xml:
+  height: 512
+  objects:
+  - xmax: 428
+    xmin: 421
+    ymax: 448
+    ymin: 442
+  width: 640
+S20210422_S2_130.xml:
+  height: 512
+  objects:
+  - xmax: 460
+    xmin: 455
+    ymax: 129
+    ymin: 125
+  width: 640
+S20210422_S2_150.xml:
+  height: 512
+  objects:
+  - xmax: 586
+    xmin: 580
+    ymax: 201
+    ymin: 198
+  width: 640
+S20210422_S2_25.xml:
+  height: 512
+  objects:
+  - xmax: 396
+    xmin: 389
+    ymax: 270
+    ymin: 266
+  width: 640
+S20210422_S2_54.xml:
+  height: 512
+  objects:
+  - xmax: 556
+    xmin: 549
+    ymax: 302
+    ymin: 298
+  width: 640
+S20210422_S3_1.xml:
+  height: 512
+  objects:
+  - xmax: 128
+    xmin: 122
+    ymax: 26
+    ymin: 23
+  - xmax: 474
+    xmin: 469
+    ymax: 265
+    ymin: 262
+  width: 640
+S20210422_S3_184.xml:
+  height: 512
+  objects:
+  - xmax: 537
+    xmin: 532
+    ymax: 239
+    ymin: 234
+  - xmax: 202
+    xmin: 198
+    ymax: 418
+    ymin: 415
+  - xmax: 41
+    xmin: 36
+    ymax: 495
+    ymin: 491
+  width: 640
+S20210422_S3_201.xml:
+  height: 512
+  objects:
+  - xmax: 604
+    xmin: 598
+    ymax: 66
+    ymin: 63
+  - xmax: 589
+    xmin: 585
+    ymax: 229
+    ymin: 225
+  - xmax: 458
+    xmin: 452
+    ymax: 253
+    ymin: 248
+  - xmax: 85
+    xmin: 78
+    ymax: 260
+    ymin: 256
+  - xmax: 150
+    xmin: 145
+    ymax: 494
+    ymin: 490
+  - xmax: 626
+    xmin: 621
+    ymax: 501
+    ymin: 497
+  width: 640
+S20210422_S4_26.xml:
+  height: 512
+  objects:
+  - xmax: 466
+    xmin: 457
+    ymax: 288
+    ymin: 285
+  width: 640
+S20210422_S5_23.xml:
+  height: 512
+  objects:
+  - xmax: 550
+    xmin: 533
+    ymax: 349
+    ymin: 344
+  width: 640
+S20210422_S5_248.xml:
+  height: 512
+  objects:
+  - xmax: 382
+    xmin: 368
+    ymax: 372
+    ymin: 367
+  width: 640
+S20210422_S5_277.xml:
+  height: 512
+  objects:
+  - xmax: 600
+    xmin: 584
+    ymax: 143
+    ymin: 138
+  width: 640
+S20210422_S6_1.xml:
+  height: 512
+  objects:
+  - xmax: 556
+    xmin: 532
+    ymax: 301
+    ymin: 295
+  width: 640
+S20210422_S6_148.xml:
+  height: 512
+  objects:
+  - xmax: 392
+    xmin: 369
+    ymax: 317
+    ymin: 310
+  width: 640
+S20210422_S6_219.xml:
+  height: 512
+  objects:
+  - xmax: 426
+    xmin: 408
+    ymax: 342
+    ymin: 337
+  width: 640
+S20210422_S6_258.xml:
+  height: 512
+  objects:
+  - xmax: 372
+    xmin: 353
+    ymax: 291
+    ymin: 285
+  width: 640
+S20210422_S6_338.xml:
+  height: 512
+  objects:
+  - xmax: 429
+    xmin: 409
+    ymax: 401
+    ymin: 395
+  width: 640
+S20210422_S6_58.xml:
+  height: 512
+  objects:
+  - xmax: 432
+    xmin: 408
+    ymax: 287
+    ymin: 281
+  width: 640
+S20210422_S7_1.xml:
+  height: 512
+  objects:
+  - xmax: 129
+    xmin: 122
+    ymax: 26
+    ymin: 23
+  - xmax: 474
+    xmin: 468
+    ymax: 265
+    ymin: 262
+  width: 640
+S20210422_S7_179.xml:
+  height: 512
+  objects:
+  - xmax: 616
+    xmin: 610
+    ymax: 155
+    ymin: 151
+  - xmax: 484
+    xmin: 477
+    ymax: 186
+    ymin: 181
+  - xmax: 596
+    xmin: 592
+    ymax: 353
+    ymin: 349
+  - xmax: 181
+    xmin: 176
+    ymax: 427
+    ymin: 424
+  width: 640
+S20210422_S7_84.xml:
+  height: 512
+  objects:
+  - xmax: 608
+    xmin: 602
+    ymax: 63
+    ymin: 60
+  - xmax: 97
+    xmin: 93
+    ymax: 155
+    ymin: 153
+  - xmax: 580
+    xmin: 573
+    ymax: 330
+    ymin: 326
+  - xmax: 605
+    xmin: 600
+    ymax: 414
+    ymin: 411
+  width: 640
+S20210527_S4_114.xml:
+  height: 512
+  objects:
+  - xmax: 407
+    xmin: 397
+    ymax: 125
+    ymin: 117
+  width: 640
+S20210527_S4_135.xml:
+  height: 512
+  objects:
+  - xmax: 344
+    xmin: 338
+    ymax: 107
+    ymin: 102
+  - xmax: 318
+    xmin: 309
+    ymax: 262
+    ymin: 257
+  width: 640
+S20210527_S4_146.xml:
+  height: 512
+  objects:
+  - xmax: 336
+    xmin: 329
+    ymax: 70
+    ymin: 66
+  - xmax: 313
+    xmin: 305
+    ymax: 187
+    ymin: 181
+  - xmax: 488
+    xmin: 483
+    ymax: 512
+    ymin: 508
+  width: 640
+S20210527_S4_167.xml:
+  height: 512
+  objects:
+  - xmax: 416
+    xmin: 407
+    ymax: 69
+    ymin: 63
+  - xmax: 226
+    xmin: 221
+    ymax: 419
+    ymin: 414
+  width: 640
+S20210527_S4_187.xml:
+  height: 512
+  objects:
+  - xmax: 521
+    xmin: 517
+    ymax: 158
+    ymin: 154
+  - xmax: 360
+    xmin: 355
+    ymax: 244
+    ymin: 240
+  - xmax: 348
+    xmin: 341
+    ymax: 274
+    ymin: 271
+  - xmax: 588
+    xmin: 582
+    ymax: 399
+    ymin: 393
+  width: 640
+S20210527_S4_201.xml:
+  height: 512
+  objects:
+  - xmax: 325
+    xmin: 321
+    ymax: 210
+    ymin: 207
+  - xmax: 301
+    xmin: 296
+    ymax: 222
+    ymin: 219
+  width: 640
+S20210527_S4_240.xml:
+  height: 512
+  objects:
+  - xmax: 286
+    xmin: 281
+    ymax: 228
+    ymin: 226
+  - xmax: 366
+    xmin: 362
+    ymax: 245
+    ymin: 242
+  width: 640
+S20210527_S4_26.xml:
+  height: 512
+  objects:
+  - xmax: 521
+    xmin: 498
+    ymax: 94
+    ymin: 80
+  width: 640
+S20210527_S4_3.xml:
+  height: 512
+  objects:
+  - xmax: 360
+    xmin: 328
+    ymax: 177
+    ymin: 156
+  width: 640
+S20210527_S4_53.xml:
+  height: 512
+  objects:
+  - xmax: 407
+    xmin: 393
+    ymax: 298
+    ymin: 289
+  width: 640
+S20210527_S6_43.xml:
+  height: 512
+  objects:
+  - xmax: 308
+    xmin: 300
+    ymax: 188
+    ymin: 180
+  width: 640
+S20210527_S6_53.xml:
+  height: 512
+  objects:
+  - xmax: 287
+    xmin: 278
+    ymax: 194
+    ymin: 185
+  width: 640
+S20210527_S6_7.xml:
+  height: 512
+  objects:
+  - xmax: 315
+    xmin: 302
+    ymax: 165
+    ymin: 153
+  width: 640
+S20210527_S6_84.xml:
+  height: 512
+  objects:
+  - xmax: 392
+    xmin: 386
+    ymax: 225
+    ymin: 220
+  width: 640
+S20210527_S7_109.xml:
+  height: 512
+  objects:
+  - xmax: 499
+    xmin: 494
+    ymax: 144
+    ymin: 140
+  width: 640
+S20210527_S7_124.xml:
+  height: 512
+  objects:
+  - xmax: 324
+    xmin: 318
+    ymax: 156
+    ymin: 151
+  width: 640
+S20210527_S7_149.xml:
+  height: 512
+  objects:
+  - xmax: 373
+    xmin: 368
+    ymax: 250
+    ymin: 245
+  width: 640
+S20210527_S7_205.xml:
+  height: 512
+  objects:
+  - xmax: 281
+    xmin: 276
+    ymax: 192
+    ymin: 186
+  width: 640
+S20210527_S7_3.xml:
+  height: 512
+  objects:
+  - xmax: 128
+    xmin: 110
+    ymax: 114
+    ymin: 96
+  width: 640
+S20210527_S7_33.xml:
+  height: 512
+  objects:
+  - xmax: 321
+    xmin: 309
+    ymax: 301
+    ymin: 292
+  width: 640
+S20210527_S7_49.xml:
+  height: 512
+  objects:
+  - xmax: 330
+    xmin: 321
+    ymax: 187
+    ymin: 179
+  width: 640
+S20210527_S7_59.xml:
+  height: 512
+  objects:
+  - xmax: 89
+    xmin: 80
+    ymax: 57
+    ymin: 50
+  width: 640
+S20210527_S7_74.xml:
+  height: 512
+  objects:
+  - xmax: 227
+    xmin: 219
+    ymax: 184
+    ymin: 177
+  width: 640
+S20210527_S7_84.xml:
+  height: 512
+  objects:
+  - xmax: 275
+    xmin: 267
+    ymax: 161
+    ymin: 155
+  width: 640
+S20210527_S7_99.xml:
+  height: 512
+  objects:
+  - xmax: 386
+    xmin: 379
+    ymax: 266
+    ymin: 262
+  width: 640
+S20210527_S8_171.xml:
+  height: 512
+  objects:
+  - xmax: 338
+    xmin: 332
+    ymax: 129
+    ymin: 125
+  width: 640
+S20210527_S8_28.xml:
+  height: 512
+  objects:
+  - xmax: 260
+    xmin: 252
+    ymax: 143
+    ymin: 136
+  width: 640
+S20210527_S8_40.xml:
+  height: 512
+  objects:
+  - xmax: 290
+    xmin: 284
+    ymax: 130
+    ymin: 123
+  width: 640
+S20210527_S8_58.xml:
+  height: 512
+  objects:
+  - xmax: 290
+    xmin: 285
+    ymax: 280
+    ymin: 276
+  width: 640
+S20210527_S8_63.xml:
+  height: 512
+  objects:
+  - xmax: 300
+    xmin: 296
+    ymax: 222
+    ymin: 220
+  width: 640
+S20210527_S8_77.xml:
+  height: 512
+  objects:
+  - xmax: 285
+    xmin: 281
+    ymax: 377
+    ymin: 374
+  - xmax: 435
+    xmin: 430
+    ymax: 388
+    ymin: 384
+  width: 640
+S20210527_S8_8.xml:
+  height: 512
+  objects:
+  - xmax: 225
+    xmin: 217
+    ymax: 247
+    ymin: 241
+  width: 640
+S20210527_S8_83.xml:
+  height: 512
+  objects:
+  - xmax: 289
+    xmin: 283
+    ymax: 103
+    ymin: 99
+  width: 640
+S20210621_S4_32.xml:
+  height: 512
+  objects:
+  - xmax: 268
+    xmin: 257
+    ymax: 219
+    ymin: 213
+  width: 640
+S20210621_S4_84.xml:
+  height: 512
+  objects:
+  - xmax: 342
+    xmin: 334
+    ymax: 303
+    ymin: 297
+  width: 640
+S20210621_S4_88.xml:
+  height: 512
+  objects:
+  - xmax: 370
+    xmin: 366
+    ymax: 286
+    ymin: 282
+  width: 640
+S20210621_S5_184.xml:
+  height: 512
+  objects:
+  - xmax: 386
+    xmin: 382
+    ymax: 124
+    ymin: 119
+  width: 640
+S20210621_S5_255.xml:
+  height: 512
+  objects:
+  - xmax: 327
+    xmin: 323
+    ymax: 290
+    ymin: 285
+  width: 640
+S20210713_S2_1.xml:
+  height: 512
+  objects:
+  - xmax: 413
+    xmin: 405
+    ymax: 215
+    ymin: 209
+  width: 640
+S20210713_S2_102.xml:
+  height: 512
+  objects:
+  - xmax: 396
+    xmin: 386
+    ymax: 194
+    ymin: 188
+  width: 640
+S20210713_S2_23.xml:
+  height: 512
+  objects:
+  - xmax: 362
+    xmin: 359
+    ymax: 347
+    ymin: 343
+  width: 640
+S20210713_S2_94.xml:
+  height: 512
+  objects:
+  - xmax: 455
+    xmin: 451
+    ymax: 401
+    ymin: 396
+  width: 640
+S20210713_S2_97.xml:
+  height: 512
+  objects:
+  - xmax: 400
+    xmin: 397
+    ymax: 174
+    ymin: 170
+  width: 640
+S20210713_S3_29.xml:
+  height: 512
+  objects:
+  - xmax: 268
+    xmin: 258
+    ymax: 167
+    ymin: 159
+  width: 640
+S20210713_S3_3.xml:
+  height: 512
+  objects:
+  - xmax: 307
+    xmin: 293
+    ymax: 258
+    ymin: 249
+  width: 640
+S20210713_S3_33.xml:
+  height: 512
+  objects:
+  - xmax: 227
+    xmin: 218
+    ymax: 83
+    ymin: 78
+  width: 640
+S20210713_S3_39.xml:
+  height: 512
+  objects:
+  - xmax: 282
+    xmin: 272
+    ymax: 104
+    ymin: 96
+  width: 640
+S20210713_S3_73.xml:
+  height: 512
+  objects:
+  - xmax: 241
+    xmin: 235
+    ymax: 352
+    ymin: 347
+  width: 640
+S20210713_S4_48.xml:
+  height: 512
+  objects:
+  - xmax: 287
+    xmin: 282
+    ymax: 169
+    ymin: 165
+  width: 640
+S20210713_S5_35.xml:
+  height: 512
+  objects:
+  - xmax: 582
+    xmin: 578
+    ymax: 335
+    ymin: 331
+  width: 640
+S2_1.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_11.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_13.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_15.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_16.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_19.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_20.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_21.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_22.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_23.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_24.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_25.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_26.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_27.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_29.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_3.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_30.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_35.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_37.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_38.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_39.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_41.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_42.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_43.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_44.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_45.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_46.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_47.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_5.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_52.xml:
+  height: 512
+  objects: []
+  width: 500
+S2_54.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_6.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_8.xml:
+  height: 512
+  objects: []
+  width: 640
+S2_9.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_1.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_17.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_21.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_22.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_23.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_24.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_26.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_4.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_6.xml:
+  height: 512
+  objects: []
+  width: 640
+S3_7.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_1.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_10.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_11.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_12.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_13.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_14.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_15.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_16.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_18.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_19.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_2.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_21.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_22.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_23.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_24.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_25.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_26.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_27.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_28.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_3.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_30.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_31.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_33.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_36.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_38.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_39.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_4.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_40.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_41.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_42.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_43.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_5.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_6.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_7.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_8.xml:
+  height: 512
+  objects: []
+  width: 640
+S4_9.xml:
+  height: 512
+  objects: []
+  width: 640
+S5_2.xml:
+  height: 512
+  objects: []
+  width: 640
+S6_1.xml:
+  height: 512
+  objects: []
+  width: 640
+S6_2.xml:
+  height: 512
+  objects: []
+  width: 640
+S6_5.xml:
+  height: 512
+  objects: []
+  width: 640
+S6_6.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_1.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_10.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_13.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_15.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_2.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_20.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_21.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_22.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_23.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_24.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_25.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_26.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_27.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_28.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_30.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_32.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_34.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_36.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_37.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_43.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_44.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_45.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_46.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_47.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_48.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_49.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_5.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_50.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_51.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_52.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_53.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_56.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_57.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_58.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_59.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_6.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_60.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_62.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_68.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_7.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_8.xml:
+  height: 512
+  objects: []
+  width: 640
+S7_9.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_1.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_10.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_12.xml:
+  height: 1024
+  objects: []
+  width: 1280
+TH0517_2.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_3.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_4.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_5.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_6.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_7.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_8.xml:
+  height: 512
+  objects: []
+  width: 640
+TH0517_9.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_1.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_120.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_140.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_180.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_190.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_2.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_210.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_223.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_244.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_252.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_262.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_268.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_279.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_283.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_290.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_297.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_3.xml:
+  height: 640
+  objects: []
+  width: 512
+TH_307.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_6.xml:
+  height: 512
+  objects: []
+  width: 640
+TH_8.xml:
+  height: 512
+  objects: []
+  width: 640
+foo-00008.xml:
+  height: 1024
+  objects: []
+  width: 1280
+foo-00029.xml:
+  height: 1024
+  objects: []
+  width: 1280
+foo-00030.xml:
+  height: 1024
+  objects: []
+  width: 1280
+foo-00103.xml:
+  height: 1024
+  objects: []
+  width: 1280
+foo-00112.xml:
+  height: 1024
+  objects:
+  - xmax: 433
+    xmin: 421
+    ymax: 701
+    ymin: 689
+  width: 1280
+iraytek-1.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-10.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-100.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-101.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-102.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-103.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-104.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-105.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-107.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-108.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-109.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-11.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-110.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-112.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-113.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-115.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-116.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-117.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-118.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-119.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-12.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-120.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-121.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-123.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-126.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-13.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-130.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-131.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-132.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-135.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-136.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-139.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-14.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-142.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-145.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-147.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-149.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-15.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-150.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-158.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-16.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-165.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-167.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-17.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-170.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-171.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-172.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-173.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-175.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-176.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-177.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-178.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-18.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-180.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-181.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-182.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-183.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-184.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-185.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-186.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-188.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-189.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-19.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-190.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-192.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-193.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-194.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-195.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-196.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-197.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-199.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-2.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-20.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-200.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-201.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-203.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-209.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-21.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-210.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-211.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-218.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-22.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-222.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-224.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-225.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-227.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-229.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-23.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-24.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-243.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-25.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-252.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-257.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-26.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-262.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-265.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-266.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-267.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-27.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-28.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-280.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-282.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-290.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-291.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-292.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-296.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-299.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-3.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-30.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-300.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-302.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-303.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-304.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-305.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-31.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-319.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-32.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-320.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-321.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-33.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-34.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-345.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-35.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-352.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-353.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-354.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-36.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-361.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-366.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-368.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-37.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-370.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-371.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-372.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-377.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-379.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-38.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-381.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-384.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-385.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-386.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-387.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-388.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-389.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-39.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-390.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-391.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-394.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-395.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-396.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-398.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-4.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-40.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-406.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-407.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-41.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-412.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-415.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-417.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-418.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-42.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-420.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-426.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-428.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-43.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-430.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-433.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-434.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-438.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-44.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-444.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-445.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-446.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-448.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-449.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-45.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-451.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-455.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-46.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-47.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-48.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-49.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-5.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-50.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-51.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-52.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-53.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-54.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-55.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-56.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-57.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-58.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-59.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-6.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-60.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-61.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-62.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-63.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-64.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-65.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-66.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-68.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-69.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-70.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-71.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-72.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-73.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-74.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-75.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-76.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-77.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-78.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-79.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-8.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-80.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-81.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-82.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-83.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-84.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-85.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-86.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-87.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-88.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-89.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-9.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-90.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-91.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-93.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-94.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-95.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-96.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-97.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-98.xml:
+  height: 1024
+  objects: []
+  width: 1280
+iraytek-99.xml:
+  height: 1024
+  objects: []
+  width: 1280
+other-10.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-11.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-12.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-13.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-15.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-17.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-4.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-7.xml:
+  height: 1080
+  objects: []
+  width: 1438
+other-8.xml:
+  height: 1080
+  objects: []
+  width: 1438
